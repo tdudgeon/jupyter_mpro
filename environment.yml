@@ -1,0 +1,14 @@
+name: jupyter-xchem
+channels:
+  - plotly
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - jupyter
+  - plotly
+  - plotly-orca
+  - scipy
+  - psutil
+  - requests
+  - rdkit
