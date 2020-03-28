@@ -12,3 +12,4 @@ dependencies:
   - psutil
   - requests
   - rdkit
+  - openbabel=3.0.0
