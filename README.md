@@ -42,8 +42,8 @@ The following datasets may be of interest:
 2. Mpro_16_data.smi.gz - file with the SMILES from the output from the 1_DataPrep notebook
 3. Enalos_data.csv.gz - ADMET data provided by NovaMechanics Ltd through Enalos Suite that is used in the 3_AugmentationAndFiltering notebook
 
-If you are wanting to generated data that can be used in the process od selecting compounds (see the Enalos data as
-an example) you should use datasets 1 or 2 and make sure the SMILES string (title line of the SDF) is included in
+If you are wanting to generate data that can be used in the process of selecting compounds (see the Enalos data as
+an example) you should use datasets 1 or 2 and PLEASE make sure the SMILES string (title line of the SDF) is included in
 your data so that it can be merged into the main data.
 
 ## Updates
