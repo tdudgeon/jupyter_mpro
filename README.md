@@ -29,8 +29,8 @@ jupyter notebook
 The following notebooks may be of interest:
 
 - [Score_distrbutions.ipynb](Score_distrbutions.ipynb) - initial playground with a hotch-potch of appraoches that are used in the main notebooks.
-- [1_DataPrep.ipynb]() - initial data merging and preparation.
-- [2_InititalDataAnalysis.ipynb](1_DataPrep.ipynb]) - basic analysis of the results.
+- [1_DataPrep.ipynb](1_DataPrep.ipynb) - initial data merging and preparation.
+- [2_InititalDataAnalysis.ipynb](2_InititalDataAnalysis.ipynb) - basic analysis of the results.
 - [3_AugmentationAndFiltering.ipynb](3_AugmentationAndFiltering.ipynb) - augmentation and filtering of the results.
 
 
