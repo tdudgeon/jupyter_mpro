@@ -3,14 +3,17 @@ channels:
   - plotly
   - conda-forge
 dependencies:
+  - python=3.8
   - numpy
-  - pandas
+  - pandas=1.0.3
   - jupyter
-  - plotly
+  - plotly=4.6.0
   - plotly-orca
-  - scipy
+  - scipy=1.4.1
   - psutil
   - requests
-  - rdkit
+  - rdkit=2020.03.1
   - openbabel=3.0.0
   - nglview
+  - odfpy
+  - xlrd
