@@ -21,6 +21,9 @@ Nwat MM-GBSA
 >  <original SMILES>  (1) 
 molecule smiles
 
+>  <ref_url>  (1) 
+https://discuss.postera.ai/t/results-from-nwat-mmgbsa-workflow-on-covalent-warheads/1225
+
 >  <ref_mols>  (1) 
 reference molecules
 
@@ -3118,7 +3121,7 @@ x1384,x1392
 O=C1CCCN1c1cccc(C2c3ccccc3C(c3ccccc3)CN2C(=O)CCl)c1
 
 $$$$
-STE-KU -2e0-6
+STE-KU-2e0-6
      RDKit          3D
 
  24 26  0  0  1  0  0  0  0  0999 V2000
@@ -22195,7 +22198,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(-c4ccc(S(N)(=O)=O)cc4)ccc3s2)CN1C(=O)CCl
 
 $$$$
-DR -UNK-dd7-3
+DR-UNK-dd7-3
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -23136,7 +23139,7 @@ x0305
 CC(C)N(C)/C(=C/[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C1CCN(C(=O)CCl)CC1
 
 $$$$
-DR -UNK-640-3
+DR-UNK-640-3
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
