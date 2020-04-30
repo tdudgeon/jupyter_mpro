@@ -1,7 +1,8 @@
 ver_1.2
      RDKit          2D
 
-  0  0  0  0  0  0  0  0  0  0999 V2000
+  1  0  0  0  0  0  0  0  0  0999 V2000
+    0.0000    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
 M  END
 >  <submitter_name>  (1) 
 Alessandro Contini
@@ -16,7 +17,7 @@ Universtity of Milan
 2020-04-19
 
 >  <method>  (1) 
-Nwat MM-GBSA
+Nwat MM-GBSA covalent run 1
 
 >  <original SMILES>  (1) 
 molecule smiles
