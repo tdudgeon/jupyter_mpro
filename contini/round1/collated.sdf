@@ -68,7 +68,7 @@ In the docking pose is the distance of the warhead to the Cys145 thiol less than
 In the docking pose is the distance of the warhead to the Cys145 thiol less than 3.5A (boolean)
 
 $$$$
-PAU-WEI-b9b-9
+PAU-WEI-b9b69149-9
      RDKit          3D
 
  38 41  0  0  1  0  0  0  0  0999 V2000
@@ -202,7 +202,7 @@ x0104,x0305,x0770,x1380,x1385
 CC(=O)NCCc1c[nH]c2c(C(CCc3ccc(C(F)(F)F)cc3)N3CCN(C(=O)CCl)CC3)cccc12
 
 $$$$
-PAU-WEI-f73-1
+PAU-WEI-f734c343-1
      RDKit          3D
 
  32 35  0  0  1  0  0  0  0  0999 V2000
@@ -324,7 +324,7 @@ x0104,x0305,x0830,x1249,x1385
 CC(=O)NCCc1c[nH]c2c(C(c3ccc(Br)s3)N3CCN(C(=O)CCl)CC3)cccc12
 
 $$$$
-MAK-UNK-af8-21
+MAK-UNK-af83ef51-21
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -438,10 +438,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (4) 
-CC[NH2+]C1CC(c2cccc(C[NH+]3CCN(C(=O)CCl)CC3)c2)CC(O)C1OC#N
+CCNC1CC(c2cccc(CN3CCN(C(=O)CCl)CC3)c2)CC(O)C1OC#N
 
 $$$$
-JAN-LUN-04a-7
+JAN-LUN-04aedcc0-7
      RDKit          3D
 
  38 41  0  0  1  0  0  0  0  0999 V2000
@@ -575,7 +575,7 @@ x0107,x0425,x0426,x0678,x1392,x1412
 O=C(O)CCCc1cncc(NC(=O)Nc2cc(O)ccc2C2CN(C(=O)CCl)Cc3ccc(O)cc32)c1
 
 $$$$
-HAN-NEW-5f5-4
+HAN-NEW-5f56c3bc-4
      RDKit          3D
 
  31 33  0  0  1  0  0  0  0  0999 V2000
@@ -693,7 +693,7 @@ x0072,x0104,x0107,x0434,x0540,x1375,x1493
 CC(=O)NCCc1c[nH]c2c(CCCC3CN(C(=O)CCl)CCN3C(C)=O)cccc12
 
 $$$$
-PAU-WEI-b9b-8
+PAU-WEI-b9b69149-8
      RDKit          3D
 
  35 38  0  0  1  0  0  0  0  0999 V2000
@@ -820,7 +820,7 @@ x0104,x0305,x0770,x1380,x1385
 CC(=O)NCCc1c[nH]c2c(C(CCc3ccc(C)cc3)N3CCN(C(=O)CCl)CC3)cccc12
 
 $$$$
-DAR-DIA-fb2-16
+DAR-DIA-fb20be43-16
      RDKit          3D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
@@ -934,7 +934,7 @@ x0104,x0195,x0305,x0830
 N#Cc1ccc(CNC(=O)N2CCOCC2)c(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-DAR-DIA-cab-12
+DAR-DIA-caba39e3-12
      RDKit          3D
 
  32 35  0  0  1  0  0  0  0  0999 V2000
@@ -1055,7 +1055,7 @@ x0195,x0305,x0830,x1249,x1392
 N#Cc1cnc(CNC(=O)N2CCOCC2)c([C@@H]2CN(C(=O)CCl)Cc3ccccc32)c1
 
 $$$$
-PAU-WEI-b9b-7
+PAU-WEI-b9b69149-7
      RDKit          3D
 
  34 37  0  0  1  0  0  0  0  0999 V2000
@@ -1180,7 +1180,7 @@ x0104,x0305,x0770,x1380,x1385
 CC(=O)NCCc1c[nH]c2c(C(CCc3ccccc3)N3CCN(C(=O)CCl)CC3)cccc12
 
 $$$$
-TAM-UNI-d1c-20
+TAM-UNI-d1c3dd9f-20
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -1290,7 +1290,7 @@ x0692,x1382,x1386,x1392
 CC(=O)NCCc1cn(C)c2c(CN3CCN(C(=O)CCl)CC3)cccc12
 
 $$$$
-MAK-UNK-af8-19
+MAK-UNK-af83ef51-19
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -1404,10 +1404,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (12) 
-CC[NH2+]C1CC(Oc2cccc(C[NH+]3CCN(C(=O)CCl)CC3)c2)CCC1OC#N
+CCNC1CC(Oc2cccc(CN3CCN(C(=O)CCl)CC3)c2)CCC1OC#N
 
 $$$$
-NIR-THE-c33-3
+NIR-THE-c331be7a-3
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -1524,7 +1524,7 @@ x0104,x0195,x0305,x0874,x1420
 CC(=O)NCCc1c[nH]c2c(C3CN(C(=O)CCl)Cc4ccccc43)c(F)ccc12
 
 $$$$
-TAM-UNI-d1c-7
+TAM-UNI-d1c3dd9f-7
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -1641,7 +1641,7 @@ x0692,x1382,x1386,x1392
 O=C(CCl)N1Cc2ccccc2C(c2cccc(CNC(=O)N3CCOCC3)c2)C1
 
 $$$$
-DAR-DIA-cab-13
+DAR-DIA-caba39e3-13
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -1760,7 +1760,7 @@ x0195,x0305,x0830,x1249,x1392
 O=C(CCl)N1Cc2ccccc2[C@H](c2cc(F)cnc2CNC(=O)N2CCOCC2)C1
 
 $$$$
-DAR-DIA-fb2-13
+DAR-DIA-fb20be43-13
      RDKit          3D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
@@ -1872,7 +1872,7 @@ x0104,x0195,x0305,x0830
 COc1cc(CN2CCN(C(=O)CCl)CC2)c2c(c1)C(CCNC(C)=O)=CC2
 
 $$$$
-BOG-INS-177-1
+BOG-INS-177e97e6-1
      RDKit          3D
 
  36 40  0  0  1  0  0  0  0  0999 V2000
@@ -2003,7 +2003,7 @@ x0759
 Cc1cc([C@@H]2CN(C(=O)CCl)CCO2)c(-c2c(F)ccc3c2C[C@@H](C(=O)[C@H]2C[C@@H]2O)N(C)C3)cc1F
 
 $$$$
-MAK-UNK-3c3-1
+MAK-UNK-3c359d2a-1
      RDKit          3D
 
  26 28  0  0  1  0  0  0  0  0999 V2000
@@ -2109,10 +2109,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (18) 
-COC1CCCC(Oc2cccc(C[NH+]3CCN(C(=O)CCl)CC3)c2)C1
+COC1CCCC(Oc2cccc(CN3CCN(C(=O)CCl)CC3)c2)C1
 
 $$$$
-MIH-UNI-e57-1
+MIH-UNI-e573136b-1
      RDKit          3D
 
  30 34  0  0  1  0  0  0  0  0999 V2000
@@ -2231,7 +2231,7 @@ x0072,x0104,x0107,x0678,x0830,x0874,x1093
 O=C(CCl)N1CCN(Cc2cccc3ccccc23)CC1c1cnc2[nH]cccc1-2
 
 $$$$
-BOG-INS-d6b-1
+BOG-INS-d6bb07dc-1
      RDKit          3D
 
  29 32  0  0  1  0  0  0  0  0999 V2000
@@ -2346,7 +2346,7 @@ x0759
 O=C(CCl)N1CCO[C@H](c2cc(F)cc3c2CC[C@@H]3Cc2cc(O)cc(F)c2)C1
 
 $$$$
-DAR-DIA-fb2-14
+DAR-DIA-fb20be43-14
      RDKit          3D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
@@ -2458,7 +2458,7 @@ x0104,x0195,x0305,x0830
 COc1cc(CN2CCN(C(=O)CCl)CC2)c2[nH]cc(CCNC(C)=O)c2c1
 
 $$$$
-HAR-NEW-972-1
+HAR-NEW-972ef1cc-1
      RDKit          3D
 
  21 23  0  0  1  0  0  0  0  0999 V2000
@@ -2557,7 +2557,7 @@ x0107,x0749,x0759
 NCC1CCc2[nH]c(C3CCCN(C(=O)CCl)C3)cc2C1
 
 $$$$
-PAU-WEI-b9b-4
+PAU-WEI-b9b69149-4
      RDKit          3D
 
  27 29  0  0  1  0  0  0  0  0999 V2000
@@ -2668,7 +2668,7 @@ x0104,x0305,x0770,x1380,x1385
 N#Cc1cccc(C(CCc2ccccc2)N2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-BOG-INS-8eb-1
+BOG-INS-8ebd826b-1
      RDKit          3D
 
  29 32  0  0  1  0  0  0  0  0999 V2000
@@ -2783,7 +2783,7 @@ x0759
 O=C(CCl)N1CCO[C@H](c2cc(F)cc3c2CO[C@@H]3Cc2cc(O)cc(F)c2)C1
 
 $$$$
-WAR-XCH-bdd-20
+WAR-XCH-bdd24732-20
      RDKit          3D
 
  28 31  0  0  1  0  0  0  0  0999 V2000
@@ -2896,7 +2896,7 @@ x1334,x1336
 Cn1ccc2cccc(CCc3ccnc(C4CCCN(C(=O)CCl)C4)c3)c21
 
 $$$$
-MIH-UNI-e57-9
+MIH-UNI-e573136b-9
      RDKit          3D
 
  24 26  0  0  1  0  0  0  0  0999 V2000
@@ -3000,7 +3000,7 @@ x0072,x0104,x0107,x0678,x0830,x0874,x1093
 NC(=O)Cc1ccccc1C1CN(C(=O)CCl)Cc2ccccc21
 
 $$$$
-DAV-CRI-8c8-1
+DAV-CRI-8c8dd668-1
      RDKit          3D
 
  32 36  0  0  1  0  0  0  0  0999 V2000
@@ -3122,7 +3122,7 @@ x1384,x1392
 O=C1CCCN1c1cccc(C2c3ccccc3C(c3ccccc3)CN2C(=O)CCl)c1
 
 $$$$
-STE-KU-2e0-6
+STE-KUL-2e0d2e88-6
      RDKit          3D
 
  24 26  0  0  1  0  0  0  0  0999 V2000
@@ -3226,7 +3226,7 @@ x0692,x0749,x0770,x0830,x1386,x1418
 O=C(CCl)N1CCCC(n2cc(COCc3ccccc3)nn2)C1
 
 $$$$
-BOG-INS-6c2-1
+BOG-INS-6c21c533-1
      RDKit          3D
 
  34 39  0  0  1  0  0  0  0  0999 V2000
@@ -3354,7 +3354,7 @@ x0692
 O=C(CCl)N1CCN(C2(c3cc(C#Cc4ccc(F)cc4O)c4ccc(F)cn34)CC2)[C@H]2CC21
 
 $$$$
-NIR-THE-c33-5
+NIR-THE-c331be7a-5
      RDKit          3D
 
  24 26  0  0  1  0  0  0  0  0999 V2000
@@ -3455,10 +3455,10 @@ x0830_0
 x0104,x0195,x0305,x0874,x1420
 
 >  <original SMILES>  (30) 
-NC(=O)Cc1ccccc1C1CN(C(=O)CCl)Cc2ccccc21
+NS(=O)(=O)c1ccc2ccc(C3CN(C(=O)CCl)Cc4ccccc43)cc2c1
 
 $$$$
-PAU-WEI-b9b-6
+PAU-WEI-b9b69149-6
      RDKit          3D
 
  28 30  0  0  1  0  0  0  0  0999 V2000
@@ -3570,7 +3570,7 @@ x0104,x0305,x0770,x1380,x1385
 Cc1ccc(CCC(c2cccc(C#N)c2)N2CCN(C(=O)CCl)CC2)cc1
 
 $$$$
-JAN-GHE-641-3
+JAN-GHE-6413aaf8-3
      RDKit          3D
 
  29 32  0  0  0  0  0  0  0  0999 V2000
@@ -3685,7 +3685,7 @@ x0104,x0692
 C=CC(=O)NC1CN(Cc2cccc3c(CCNC(=O)c4ccc[nH]4)c[nH]c23)C1
 
 $$$$
-CHA-KIN-87c-2
+CHA-KIN-87c379ac-2
      RDKit          3D
 
  43 45  0  0  1  0  0  0  0  0999 V2000
@@ -3828,7 +3828,7 @@ x0967
 Cc1cccc(CO)c1NC(=O)NC(Cc1ccc(O)cc1)C(=O)N(CCCC(N)=O)CCN1CCCN(C(=O)CCl)C1
 
 $$$$
-MAK-UNK-7d5-1
+MAK-UNK-7d5cf6bf-1
      RDKit          3D
 
  25 25  0  0  0  0  0  0  0  0999 V2000
@@ -3933,7 +3933,7 @@ x0104,x0692
 CC(=O)NCCCC(=O)NCC(=O)NC[N+]1CCN(C(=O)CCl)CC1
 
 $$$$
-JAN-LUN-04a-6
+JAN-LUN-04aedcc0-6
      RDKit          3D
 
  37 41  0  0  1  0  0  0  0  0999 V2000
@@ -4066,7 +4066,7 @@ x0107,x0425,x0426,x0678,x1392,x1412
 O=C(Nc1cc2cc(C(=O)O)cnc2[nH]1)Nc1cc(O)ccc1C1CN(C(=O)CCl)Cc2ccccc21
 
 $$$$
-BOG-INS-160-1
+BOG-INS-16021dc0-1
      RDKit          3D
 
  34 37  0  0  1  0  0  0  0  0999 V2000
@@ -4192,7 +4192,7 @@ x0759
 C[C@@H](N)C(=O)[C@H]1Cc2c(ccc(F)c2-c2cc(F)ccc2[C@@H]2CN(C(=O)CCl)CCO2)N(C)C1
 
 $$$$
-JAN-LUN-04a-1
+JAN-LUN-04aedcc0-1
      RDKit          3D
 
  33 35  0  0  1  0  0  0  0  0999 V2000
@@ -4314,7 +4314,7 @@ x0107,x0425,x0426,x0678,x1392,x1412
 O=C(O)CCCc1cncc(NC(=O)Nc2cc(O)ccc2C2CN(C(=O)CCl)CCN2)c1
 
 $$$$
-DAV-CRI-25b-4
+DAV-CRI-25b90884-4
      RDKit          3D
 
  28 29  0  0  1  0  0  0  0  0999 V2000
@@ -4425,7 +4425,7 @@ x0967,x1382
 CC(=O)NC(C(=O)NC(NC(=O)CCl)c1cccc(Cl)c1)c1ccc(O)cc1
 
 $$$$
-NIM-UNI-ed9-2
+NIM-UNI-ed9fc491-2
      RDKit          3D
 
  28 29  0  0  1  0  0  0  0  0999 V2000
@@ -4536,7 +4536,7 @@ x0770,x0967
 CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NCCN1CCN(C(=O)CCl)CC1
 
 $$$$
-MAK-UNK-af8-26
+MAK-UNK-af83ef51-26
      RDKit          3D
 
  31 33  0  0  1  0  0  0  0  0999 V2000
@@ -4652,10 +4652,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (40) 
-COC1CN(C(=O)CCNc2ccc(C#N)cn2)CC1C[NH+]1CCN(C(=O)CCl)CC1
+COC1CN(C(=O)CCNc2ccc(C#N)cn2)CC1CN1CCN(C(=O)CCl)CC1
 
 $$$$
-JAN-GHE-641-4
+JAN-GHE-6413aaf8-4
      RDKit          3D
 
  32 36  0  0  1  0  0  0  0  0999 V2000
@@ -4778,7 +4778,7 @@ x0104,x0692
 C=CC(=O)N1C[C@@H]2CN(Cc3cccc4c(CCNC(=O)c5ccc[nH]5)c[nH]c34)C[C@@H]2C1
 
 $$$$
-DAR-DIA-fb2-11
+DAR-DIA-fb20be43-11
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -4889,7 +4889,7 @@ x0104,x0195,x0305,x0830
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc12
 
 $$$$
-NAU-LAT-f72-1
+NAU-LAT-f723e322-1
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -5000,7 +5000,7 @@ x0072,x0104,x0397,x0692,x1308,x1336
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc12
 
 $$$$
-NIM-UNI-ed9-1
+NIM-UNI-ed9fc491-1
      RDKit          3D
 
  27 28  0  0  1  0  0  0  0  0999 V2000
@@ -5109,7 +5109,7 @@ x0770,x0967
 CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NCN1CCN(C(=O)CCl)CC1
 
 $$$$
-DAV-CRI-25b-3
+DAV-CRI-25b90884-3
      RDKit          3D
 
  27 28  0  0  1  0  0  0  0  0999 V2000
@@ -5218,7 +5218,7 @@ x0967,x1382
 CC(=O)NC(C#CC(NC(=O)CCl)c1cccc(Cl)c1)c1ccc(O)cc1
 
 $$$$
-DAR-DIA-fb2-17
+DAR-DIA-fb20be43-17
      RDKit          3D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
@@ -5332,7 +5332,7 @@ x0104,x0195,x0305,x0830
 N#Cc1cnc(CNC(=O)N2CCOCC2)c(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-TAM-UNI-d1c-11
+TAM-UNI-d1c3dd9f-11
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -5451,7 +5451,7 @@ x0692,x1382,x1386,x1392
 CC(=O)NCCCc1cn(C)c2cc(C3CN(C(=O)CCl)Cc4ccccc43)ccc12
 
 $$$$
-MAK-UNK-72b-1
+MAK-UNK-72b7ba6b-1
      RDKit          3D
 
  34 37  0  0  0  0  0  0  0  0999 V2000
@@ -5574,10 +5574,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (48) 
-O=C(C[NH2+]Cc1c[nH]c2ccc(F)cc12)NCc1ccc(C[NH+]2CCN(C(=O)CCl)CC2)cc1
+O=C(CNCc1c[nH]c2ccc(F)cc12)NCc1ccc(CN2CCN(C(=O)CCl)CC2)cc1
 
 $$$$
-AVI-UNI-70b-2
+AVI-UNI-70b60925-2
      RDKit          3D
 
  28 30  0  0  1  0  0  0  0  0999 V2000
@@ -5690,7 +5690,7 @@ x0107,x0831,x1382
 O=C(CCl)N1CCN(Cc2cc(O)ccc2O)CC(c2cc(O)ccc2O)C1
 
 $$$$
-JAN-GHE-641-1
+JAN-GHE-6413aaf8-1
      RDKit          3D
 
  30 33  0  0  0  0  0  0  0  0999 V2000
@@ -5807,7 +5807,7 @@ x0104,x0692
 C=CC(=O)N1CCN(Cc2cccc3c(CCNC(=O)c4ccc[nH]4)c[nH]c23)CC1
 
 $$$$
-TAM-UNI-d1c-12
+TAM-UNI-d1c3dd9f-12
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -5917,7 +5917,7 @@ x0692,x1382,x1386,x1392
 O=C(CCl)N1CCN(Cc2cccc(CNC(=O)N3CCOCC3)c2)CC1
 
 $$$$
-DAR-DIA-fb2-10
+DAR-DIA-fb20be43-10
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -6028,7 +6028,7 @@ x0104,x0195,x0305,x0830
 CC(=O)NCCC1=CCc2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc21
 
 $$$$
-JAN-GHE-641-2
+JAN-GHE-6413aaf8-2
      RDKit          3D
 
  29 32  0  0  0  0  0  0  0  0999 V2000
@@ -6144,7 +6144,7 @@ x0104,x0692
 C=CC(=O)N1CC(NCc2cccc3c(CCNC(=O)c4ccc[nH]4)c[nH]c23)C1
 
 $$$$
-NIR-THE-0d6-2
+NIR-THE-0d6461ce-2
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -6254,7 +6254,7 @@ x0104,x0161,x0195,x0305,x0692,x0770,x0830,x1334
 CC(=O)NCCc1c[nH]c2c(CC3CCN(C(=O)CCl)CC3)cc(F)cc12
 
 $$$$
-JOH-PRI-13a-1
+JOH-PRI-13a2d501-1
      RDKit          3D
 
  27 29  0  0  1  0  0  0  0  0999 V2000
@@ -6365,7 +6365,7 @@ x0104,x0708
 CNC(=O)CCc1nn(C)c2c1CCN1CC(C(=O)NNC(=O)CCl)SC21
 
 $$$$
-SEL-UNI-cd3-8
+SEL-UNI-cd366922-8
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -6475,7 +6475,7 @@ x0692
 CC(=O)NCCC1=CNc2cc(CN3CCN(C(=O)CCl)CC3)ccc2C1
 
 $$$$
-SEL-UNI-49a-7
+SEL-UNI-49ab05bd-7
      RDKit          3D
 
  32 35  0  0  1  0  0  0  0  0999 V2000
@@ -6596,7 +6596,7 @@ x0749
 C#Cc1ncnc2c1nc(C1CCCN(C(=O)CCl)C1)n2CC(=O)CN1C=C(N)C=NC1
 
 $$$$
-MAK-UNK-cd9-1
+MAK-UNK-cd94b63c-1
      RDKit          3D
 
  24 25  0  0  0  0  0  0  0  0999 V2000
@@ -6697,10 +6697,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (58) 
-C[NH2+]CCSC(=O)c1cccc(C[NH+]2CCN(C(=O)CCl)CC2)c1
+CNCCSC(=O)c1cccc(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-MAK-UNK-e4a-25
+MAK-UNK-e4a48a85-25
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -6808,10 +6808,10 @@ x0830_0
 x0387,x0692
 
 >  <original SMILES>  (59) 
-Cc1nc(C[NH+]2CCN(C(=O)CCl)CC2)c(CCCc2ccsc2)c(=O)[nH]1
+Cc1nc(CN2CCN(C(=O)CCl)CC2)c(CCCc2ccsc2)c(=O)[nH]1
 
 $$$$
-DAR-DIA-cab-4
+DAR-DIA-caba39e3-4
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -6930,7 +6930,7 @@ x0195,x0305,x0830,x1249,x1392
 COc1cc([C@@H]2CN(C(=O)CCl)Cc3ccccc32)c2[nH]cc(CCNC(C)=O)c2c1
 
 $$$$
-MAK-UNK-af8-27
+MAK-UNK-af83ef51-27
      RDKit          3D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
@@ -7042,10 +7042,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (61) 
-CCNc1ccc(NCc2cnc(C)c(C[NH+]3CCN(C(=O)CCl)CC3)c2)cn1
+CCNc1ccc(NCc2cnc(C)c(CN3CCN(C(=O)CCl)CC3)c2)cn1
 
 $$$$
-PAU-UNI-b33-1
+PAU-UNI-b33c5197-1
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -7162,7 +7162,7 @@ x0678,x0749
 O=C(CCn1c(C2CCCN(C(=O)CCl)C2)nc2ccccc21)Nc1cccnc1
 
 $$$$
-JAN-GHE-641-5
+JAN-GHE-6413aaf8-5
      RDKit          3D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
@@ -7270,7 +7270,7 @@ x0104,x0692
 C=CC(=O)N1CCN(Cc2cccc3c(CCNC(C)=O)c[nH]c23)CC1
 
 $$$$
-DAN-LON-a5f-10
+DAN-LON-a5fc619e-10
      RDKit          3D
 
  25 27  0  0  1  0  0  0  0  0999 V2000
@@ -7377,7 +7377,7 @@ x0770
 O=C(CCl)N1CCN(Cc2cccc(Cl)c2)C[C@@H]1Cc1ccccc1
 
 $$$$
-DAR-DIA-cab-11
+DAR-DIA-caba39e3-11
      RDKit          3D
 
  32 35  0  0  1  0  0  0  0  0999 V2000
@@ -7498,7 +7498,7 @@ x0195,x0305,x0830,x1249,x1392
 COc1cc([C@@H]2CN(C(=O)CCl)Cc3ccccc32)c2ccc(CCNC(C)=O)cc2c1
 
 $$$$
-BEN-VAN-77c-10
+BEN-VAN-77cef4f8-10
      RDKit          3D
 
  29 31  0  0  1  0  0  0  0  0999 V2000
@@ -7612,7 +7612,7 @@ x0759,x1478
 C=CC(=O)N1CCO[C@@H](c2ccc(F)cc2C[C@H](C)Nc2ccc(C#N)cn2)C1
 
 $$$$
-SIM-SYN-7db-1
+SIM-SYN-7db9eb24-1
      RDKit          3D
 
  27 29  0  0  1  0  0  0  0  0999 V2000
@@ -7723,7 +7723,7 @@ x0397,x0692,x1351
 O=C(NC1CCN(C(=O)CCl)CC1NCc1ccccc1)c1ccccc1
 
 $$$$
-BOG-INS-299-1
+BOG-INS-29936cf2-1
      RDKit          3D
 
  33 38  0  0  1  0  0  0  0  0999 V2000
@@ -7849,7 +7849,7 @@ x0692
 O=C(CCl)N1CCN(C2(c3cc(C#Cc4ccc(F)cc4O)c4ccccn34)CC2)[C@H]2CC21
 
 $$$$
-DAV-CRI-1c7-3
+DAV-CRI-1c77f7a9-3
      RDKit          3D
 
  28 31  0  0  1  0  0  0  0  0999 V2000
@@ -7962,7 +7962,7 @@ x0434,x0759,x0831,x1384,x1392
 O=C(CCl)N1Cc2ccccc2C(c2ccccc2)C1C#Cc1cccnc1
 
 $$$$
-ANT-STE-dbb-2
+ANT-STE-dbb91f63-2
      RDKit          3D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
@@ -8066,7 +8066,7 @@ x1386
 COc1cccc(-n2cc(CN3CCN(C(=O)CCl)CC3)nn2)c1
 
 $$$$
-ANT-STE-dbb-1
+ANT-STE-dbb91f63-1
      RDKit          3D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
@@ -8171,7 +8171,7 @@ x1386
 COc1ccc(-n2cc(CN3CCN(C(=O)CCl)CC3)nn2)cc1
 
 $$$$
-MAK-UNK-702-7
+MAK-UNK-702fb7d3-7
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -8314,10 +8314,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (72) 
-O=C(CCl)N1Cc2ccccc2C(c2ccccc2)C1[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
+O=C(CCl)N1Cc2ccccc2C(c2ccccc2)C1NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-MAK-UNK-af8-14
+MAK-UNK-af83ef51-14
      RDKit          3D
 
  32 33  0  0  1  0  0  0  0  0999 V2000
@@ -8434,10 +8434,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (73) 
-COC(=O)C(NS(=O)(=O)NS(N)(=O)=O)c1ccc(C[NH+]2CCN(C(=O)CCl)CC2)cc1C
+COC(=O)C(NS(=O)(=O)NS(N)(=O)=O)c1ccc(CN2CCN(C(=O)CCl)CC2)cc1C
 
 $$$$
-NIR-THE-0d6-3
+NIR-THE-0d6461ce-3
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -8547,7 +8547,7 @@ x0104,x0161,x0195,x0305,x0692,x0770,x0830,x1334
 CC(=O)NCCc1c[nH]c2c(NC3CCN(C(=O)CCl)CC3)cc(F)cc12
 
 $$$$
-MAK-UNK-af8-25
+MAK-UNK-af83ef51-25
      RDKit          3D
 
  31 33  0  0  1  0  0  0  0  0999 V2000
@@ -8663,10 +8663,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (75) 
-CC1OC(C[NH+]2CCN(C(=O)CCl)CC2)C(O)C1OCCCNc1ccc(C#N)cn1
+CC1OC(CN2CCN(C(=O)CCl)CC2)C(O)C1OCCCNc1ccc(C#N)cn1
 
 $$$$
-MAK-UNK-176-4
+MAK-UNK-176ca439-4
      RDKit          3D
 
  26 28  0  0  1  0  0  0  0  0999 V2000
@@ -8772,10 +8772,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (76) 
-COC1CCCC(Oc2cccc(C[NH+]3CCN(C(=O)CCl)CC3)c2)C1
+COC1CCCC(Oc2cccc(CN3CCN(C(=O)CCl)CC3)c2)C1
 
 $$$$
-MAK-UNK-8fd-10
+MAK-UNK-8fdbca50-10
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -8910,10 +8910,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (77) 
-C[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2C(C)N(C)C(=O)C2CCN(C(=O)CCl)CC2)c1
+CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2C(C)N(C)C(=O)C2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-DAR-DIA-fb2-15
+DAR-DIA-fb20be43-15
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -9024,7 +9024,7 @@ x0104,x0195,x0305,x0830
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cc(Cl)cc12
 
 $$$$
-MAK-UNK-af8-20
+MAK-UNK-af83ef51-20
      RDKit          3D
 
  27 28  0  0  1  0  0  0  0  0999 V2000
@@ -9131,10 +9131,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (79) 
-CC[NH2+]C(COc1cccc(C[NH+]2CCN(C(=O)CCl)CC2)c1)OCC#N
+CCNC(COc1cccc(CN2CCN(C(=O)CCl)CC2)c1)OCC#N
 
 $$$$
-DAR-DIA-fb2-18
+DAR-DIA-fb20be43-18
      RDKit          3D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
@@ -9248,7 +9248,7 @@ x0104,x0195,x0305,x0830
 COc1cnc(CNC(=O)N2CCOCC2)c(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-DUN-NEW-f8c-24
+DUN-NEW-f8ce3686-24
      RDKit          3D
 
  26 28  0  0  0  0  0  0  0  0999 V2000
@@ -9357,7 +9357,7 @@ x0072,x1458
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cccc12
 
 $$$$
-MAK-UNK-702-10
+MAK-UNK-702fb7d3-10
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -9500,10 +9500,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (82) 
-O=C(CCl)N1Cc2ccc([NH2+]Cc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)cc2C(c2ccccc2)C1
+O=C(CCl)N1Cc2ccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)cc2C(c2ccccc2)C1
 
 $$$$
-MAK-UNK-8fd-16
+MAK-UNK-8fdbca50-16
      RDKit          3D
 
  40 43  0  0  0  0  0  0  0  0999 V2000
@@ -9637,10 +9637,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (83) 
-CC(C)N(C[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(=O)C1CCN(C(=O)CCl)CC1
+CC(C)N(CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(=O)C1CCN(C(=O)CCl)CC1
 
 $$$$
-MAK-UNK-702-11
+MAK-UNK-702fb7d3-11
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -9783,10 +9783,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (84) 
-O=C(CCl)N1Cc2cccc([NH2+]Cc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)c2C(c2ccccc2)C1
+O=C(CCl)N1Cc2cccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)c2C(c2ccccc2)C1
 
 $$$$
-NIY-UNK-626-6
+NIY-UNK-62612a68-6
      RDKit          3D
 
  32 35  0  0  0  0  0  0  0  0999 V2000
@@ -9907,7 +9907,7 @@ x0195,x0305,x0387,x0689,x0736,x1374
 O=C(CCl)N1CCc2cccc(CS(=O)(=O)Nc3cc(CN4CCC(O)CC4)cs3)c2C1
 
 $$$$
-MAK-UNK-176-1
+MAK-UNK-176ca439-1
      RDKit          3D
 
  25 25  0  0  0  0  0  0  0  0999 V2000
@@ -10003,10 +10003,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (86) 
-CC(=O)NCCCC(=O)NCC(=O)NC[NH+]1CCN(C(=O)CCl)CC1
+CC(=O)NCCCC(=O)NCC(=O)NCN1CCN(C(=O)CCl)CC1
 
 $$$$
-NIM-UNI-ed9-4
+NIM-UNI-ed9fc491-4
      RDKit          3D
 
  34 36  0  0  1  0  0  0  0  0999 V2000
@@ -10125,7 +10125,7 @@ x0770,x0967
 CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NC(CN1CCN(C(=O)CCl)CC1)c1ccccc1
 
 $$$$
-MAK-UNK-e4a-7
+MAK-UNK-e4a48a85-7
      RDKit          3D
 
  30 32  0  0  0  0  0  0  0  0999 V2000
@@ -10233,10 +10233,10 @@ x0830_0
 x0387,x0692
 
 >  <original SMILES>  (88) 
-O=C(CSCc1cccc(C[NH+]2CCN(C(=O)CCl)CC2)c1)C[NH+]1CCC(O)CC1
+O=C(CSCc1cccc(CN2CCN(C(=O)CCl)CC2)c1)CN1CCC(O)CC1
 
 $$$$
-MAK-UNK-e4a-19
+MAK-UNK-e4a48a85-19
      RDKit          3D
 
  35 38  0  0  1  0  0  0  0  0999 V2000
@@ -10355,10 +10355,10 @@ x0830_0
 x0387,x0692
 
 >  <original SMILES>  (89) 
-Cc1cc(C[NH+]2CCN(C(=O)CCl)CC2)ccc1C1OC(CO)C(OC[NH+]2CCC(O)CC2)C1O
+Cc1cc(CN2CCN(C(=O)CCl)CC2)ccc1C1OC(CO)C(OCN2CCC(O)CC2)C1O
 
 $$$$
-DAV-CRI-25b-1
+DAV-CRI-25b90884-1
      RDKit          3D
 
  27 28  0  0  1  0  0  0  0  0999 V2000
@@ -10461,7 +10461,7 @@ x0967,x1382
 CC(=O)NC(CCC(NC(=O)CCl)c1cccc(Cl)c1)c1ccc(O)cc1
 
 $$$$
-NIM-UNI-363-2
+NIM-UNI-363644a0-2
      RDKit          3D
 
  43 47  0  0  1  0  0  0  0  0999 V2000
@@ -10600,7 +10600,7 @@ x0426,x0434,x0770,x0946
 NS(=O)(=O)c1ccc2cccc(CN3CCN(C(=O)CCl)C(c4cnccc4CCNC(=O)NC4CCCCC4)C3)c2c1
 
 $$$$
-MAK-UNK-176-2
+MAK-UNK-176ca439-2
      RDKit          3D
 
  29 30  0  0  1  0  0  0  0  0999 V2000
@@ -10705,10 +10705,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (92) 
-CNC(=O)C([NH2+]CCNC(C)=O)c1cccc(C[NH+]2CCN(C(=O)CCl)CC2)c1
+CNC(=O)C(NCCNC(C)=O)c1cccc(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-JUA-UNI-bc0-2
+JUA-UNI-bc099708-2
      RDKit          3D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
@@ -10814,7 +10814,7 @@ x1382
 C=CC(=O)NCc1ccc(C(=O)NCc2cc(C)cc3c(C)c(C)[nH]c23)cc1
 
 $$$$
-SEL-UNI-49a-6
+SEL-UNI-49ab05bd-6
      RDKit          3D
 
  37 40  0  0  1  0  0  0  0  0999 V2000
@@ -10939,7 +10939,7 @@ x0749
 C#Cc1ncnc2c1nc(C1CCCN(C(=O)CCl)C1)n2CC(=O)C(Cc1ccc(O)cc1)NC(C)=O
 
 $$$$
-STU-CHA-bc0-1
+STU-CHA-bc0a9883-1
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -11044,7 +11044,7 @@ x0104,x0692
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc12
 
 $$$$
-JOO-PER-d7a-1
+JOO-PER-d7ab4f65-1
      RDKit          3D
 
  27 29  0  0  1  0  0  0  0  0999 V2000
@@ -11149,7 +11149,7 @@ x0104,x0830
 CC(=O)NCCC1C=Nc2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc21
 
 $$$$
-DAV-CRI-25b-2
+DAV-CRI-25b90884-2
      RDKit          3D
 
  27 28  0  0  1  0  0  0  0  0999 V2000
@@ -11252,7 +11252,7 @@ x0967,x1382
 CC(=O)NC(/C=C/C(NC(=O)CCl)c1cccc(Cl)c1)c1ccc(O)cc1
 
 $$$$
-MAK-UNK-176-5
+MAK-UNK-176ca439-5
      RDKit          3D
 
  34 37  0  0  0  0  0  0  0  0999 V2000
@@ -11369,10 +11369,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (98) 
-O=C(C[NH2+]Cc1c[nH]c2ccc(F)cc12)NCc1ccc(C[NH+]2CCN(C(=O)CCl)CC2)cc1
+O=C(CNCc1c[nH]c2ccc(F)cc12)NCc1ccc(CN2CCN(C(=O)CCl)CC2)cc1
 
 $$$$
-MAK-UNK-af8-30
+MAK-UNK-af83ef51-30
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -11479,10 +11479,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (99) 
-CCNc1ccc(C2OC(O)C([NH2+]C[NH+]3CCN(C(=O)CCl)CC3)C(O)C2O)cn1
+CCNc1ccc(C2OC(O)C(NCN3CCN(C(=O)CCl)CC3)C(O)C2O)cn1
 
 $$$$
-TAM-UNI-d1c-1
+TAM-UNI-d1c3dd9f-1
      RDKit          3D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
@@ -11590,7 +11590,7 @@ x0692,x1382,x1386,x1392
 N#Cc1ccc(CNC(=O)N2CCOCC2)c(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-DAR-DIA-cab-5
+DAR-DIA-caba39e3-5
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -11701,7 +11701,7 @@ x0195,x0305,x0830,x1249,x1392
 CC(=O)NCCc1c[nH]c2c([C@@H]3CN(C(=O)CCl)Cc4ccccc43)cc(Cl)cc12
 
 $$$$
-BEN-VAN-77c-12
+BEN-VAN-77cef4f8-12
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -11811,7 +11811,7 @@ x0759,x1478
 C=CC(=O)N1CCO[C@@H](c2ccc(F)c(F)c2C[C@H](C)Nc2ccc(C#N)cn2)C1
 
 $$$$
-SAL-INS-1ea-4
+SAL-INS-1ea6d4ee-4
      RDKit          3D
 
  29 31  0  0  1  0  0  0  0  0999 V2000
@@ -11919,7 +11919,7 @@ x0759,x1308,x1358,x1402
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(Cl)cc2)[C@@H](CCc2ccccc2O)C1
 
 $$$$
-MAK-UNK-e4a-27
+MAK-UNK-e4a48a85-27
      RDKit          3D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
@@ -12023,10 +12023,10 @@ x0830_0
 x0387,x0692
 
 >  <original SMILES>  (104) 
-Cc1nc(C[NH+]2CCN(C(=O)CCl)CC2)c(NCc2cccc(O)c2)c(=O)[nH]1
+Cc1nc(CN2CCN(C(=O)CCl)CC2)c(NCc2cccc(O)c2)c(=O)[nH]1
 
 $$$$
-JAN-GHE-641-8
+JAN-GHE-6413aaf8-8
      RDKit          3D
 
  31 33  0  0  0  0  0  0  0  0999 V2000
@@ -12139,7 +12139,7 @@ x0104,x0692
 C=CC(=O)N1CCN(Cc2cccc3c(CCNC(=O)CCCN(C)C)c[nH]c23)CC1
 
 $$$$
-INS-INS-abe-1
+INS-INS-abeb49e4-1
      RDKit          3D
 
  44 48  0  0  1  0  0  0  0  0999 V2000
@@ -12279,7 +12279,7 @@ x1392
 C[C@H](NC(=O)[C@@H]1[C@H](c2cccc3c2CN(C(=O)CCl)[C@@H](c2cc(NC(N)=O)ncn2)[C@H]3c2ccccc2)CC1(F)F)C(N)=O
 
 $$$$
-JUA-UNI-bc0-4
+JUA-UNI-bc099708-4
      RDKit          3D
 
  26 27  0  0  1  0  0  0  0  0999 V2000
@@ -12380,7 +12380,7 @@ x1382
 C=CC(=O)NCc1ccc(C(=O)N[C@H](CO)c2ccc(Br)c(F)c2)cc1
 
 $$$$
-MAK-UNK-176-7
+MAK-UNK-176ca439-7
      RDKit          3D
 
  31 34  0  0  0  0  0  0  0  0999 V2000
@@ -12491,10 +12491,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (108) 
-O=C(CCl)N1CC[NH+](Cc2cccc(CCCNc3c[nH]c4ccc(F)cc34)c2)CC1
+O=C(CCl)N1CCN(Cc2cccc(CCCNc3c[nH]c4ccc(F)cc34)c2)CC1
 
 $$$$
-NIR-THE-99f-1
+NIR-THE-99f25457-1
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -12605,7 +12605,7 @@ x0748,x0759,x0820,x0874,x1478
 NC(=O)C1CCC(CC(NC(=O)CCl)c2cccc3ccccc23)C1c1ccsc1
 
 $$$$
-BOG-INS-84c-1
+BOG-INS-84cddf90-1
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -12719,7 +12719,7 @@ x0692
 Cc1ccc2c(C#Cc3ccc(F)cc3O)cc(CN3CCN(C(=O)CCl)CC3)n2c1
 
 $$$$
-SEA-TRI-67e-1
+SEA-TRI-67e8f1c7-1
      RDKit          3D
 
  31 34  0  0  0  0  0  0  0  0999 V2000
@@ -12832,7 +12832,7 @@ x0830
 O=C(CCl)N1CCN(Cc2cc(Cl)cc3cccc(OCCN4CCOCC4)c23)CC1
 
 $$$$
-MAK-UNK-af8-33
+MAK-UNK-af83ef51-33
      RDKit          3D
 
  37 40  0  0  1  0  0  0  0  0999 V2000
@@ -12955,10 +12955,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (112) 
-Cc1ccc(OCCCCC2[NH2+]CC(c3cc(C)cc(C[NH+]4CCN(C(=O)CCl)CC4)c3)CC2=O)cc1
+Cc1ccc(OCCCCC2NCC(c3cc(C)cc(CN4CCN(C(=O)CCl)CC4)c3)CC2=O)cc1
 
 $$$$
-NIM-UNI-ed9-3
+NIM-UNI-ed9fc491-3
      RDKit          3D
 
  33 35  0  0  1  0  0  0  0  0999 V2000
@@ -13074,7 +13074,7 @@ x0770,x0967
 CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NC(c1ccccc1)N1CCN(C(=O)CCl)CC1
 
 $$$$
-MAK-UNK-e4a-18
+MAK-UNK-e4a48a85-18
      RDKit          3D
 
  30 32  0  0  0  0  0  0  0  0999 V2000
@@ -13182,10 +13182,10 @@ x0830_0
 x0387,x0692
 
 >  <original SMILES>  (114) 
-Cc1cc(C[NH+]2CCN(C(=O)CCl)CC2)ccc1NCC[NH2+]C[NH+]1CCC(O)CC1
+Cc1cc(CN2CCN(C(=O)CCl)CC2)ccc1NCCNCN1CCC(O)CC1
 
 $$$$
-MAK-UNK-af8-23
+MAK-UNK-af83ef51-23
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -13293,10 +13293,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (115) 
-CC1CC(C[NH+]2CCN(C(=O)CCl)CC2)CC([NH2+]CCNc2ccc(C#N)cn2)C1
+CC1CC(CN2CCN(C(=O)CCl)CC2)CC(NCCNc2ccc(C#N)cn2)C1
 
 $$$$
-TAM-UNI-d1c-19
+TAM-UNI-d1c3dd9f-19
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -13400,7 +13400,7 @@ x0692,x1382,x1386,x1392
 CC(=O)NCCc1cn(C)c2cc(CN3CCN(C(=O)CCl)CC3)ccc12
 
 $$$$
-BEN-VAN-77c-6
+BEN-VAN-77cef4f8-6
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -13510,7 +13510,7 @@ x0759,x1478
 C=CC(=O)N1CCO[C@H](c2cc(CO[C@H](C)Nc3cccnc3Cl)c(F)cc2F)C1
 
 $$$$
-BOG-INS-699-1
+BOG-INS-699b5a3a-1
      RDKit          3D
 
  32 36  0  0  1  0  0  0  0  0999 V2000
@@ -13627,7 +13627,7 @@ x0692
 O=C(CCl)N1CCN(C2(c3cc(C#Cc4ccc(F)cc4O)c4ccccn34)CC2)CC1
 
 $$$$
-INS-INS-68e-1
+INS-INS-68e9753a-1
      RDKit          3D
 
  42 47  0  0  1  0  0  0  0  0999 V2000
@@ -13764,7 +13764,7 @@ x1392
 Cc1cc(-c2cccc([C@@H]3c4cccc(C5CC(F)(F)C5)c4CN(C(=O)CCl)[C@@H]3c3cc(NC(N)=O)ncn3)c2)co1
 
 $$$$
-MAK-UNK-69e-1
+MAK-UNK-69e28b36-1
      RDKit          3D
 
  34 37  0  0  1  0  0  0  0  0999 V2000
@@ -13881,10 +13881,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (120) 
-CC(CO)(COc1c[nH]c2ccc(F)cc12)Cc1cccc(C[NH+]2CCN(C(=O)CCl)CC2)c1
+CC(CO)(COc1c[nH]c2ccc(F)cc12)Cc1cccc(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-PAU-WEI-f73-2
+PAU-WEI-f734c343-2
      RDKit          3D
 
  35 38  0  0  1  0  0  0  0  0999 V2000
@@ -14006,7 +14006,7 @@ x0104,x0305,x0830,x1249,x1385
 N#Cc1ccc(CNC(=O)N2CCOCC2)c(C(c2ccc(Br)s2)N2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-SEA-TRI-fac-1
+SEA-TRI-fac72a44-1
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -14117,7 +14117,7 @@ x1392
 O=C(CCl)N1Cc2c(OCCN3CCOCC3)cccc2[C@H](c2cccc(Cl)c2)C1
 
 $$$$
-STU-CHA-7b3-1
+STU-CHA-7b3b91d5-1
      RDKit          3D
 
  28 30  0  0  1  0  0  0  0  0999 V2000
@@ -14224,7 +14224,7 @@ x0770,x1249
 O=C(NCc1ccc(Cl)cc1CN1CCN(C(=O)CCl)CC1)[C@@H]1CCCOC1
 
 $$$$
-BEN-VAN-77c-5
+BEN-VAN-77cef4f8-5
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -14334,7 +14334,7 @@ x0759,x1478
 C=CC(=O)N1CCO[C@H](c2cc(F)c(F)c(CO[C@H](C)Nc3cccnc3Cl)c2)C1
 
 $$$$
-MIH-UNI-e57-2
+MIH-UNI-e573136b-2
      RDKit          3D
 
  27 30  0  0  1  0  0  0  0  0999 V2000
@@ -14440,7 +14440,7 @@ x0072,x0104,x0107,x0678,x0830,x0874,x1093
 O=C(CCl)N1CCN(Cc2cccc3ccccc23)CC1c1cccnc1
 
 $$$$
-MAK-UNK-9d4-1
+MAK-UNK-9d4d1e57-1
      RDKit          3D
 
  29 30  0  0  1  0  0  0  0  0999 V2000
@@ -14548,7 +14548,7 @@ x0104,x0692
 CNC(=O)C([N+]CCNC(C)=O)c1cccc(C[N+]2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-ANT-OPE-b90-1
+ANT-OPE-b90194ad-1
      RDKit          3D
 
  28 31  0  0  0  0  0  0  0  0999 V2000
@@ -14655,7 +14655,7 @@ x0072
 C=CC(=O)NCCc1c[nH]c2c(NCc3ccc4[nH]cnc4c3)cc(F)cc12
 
 $$$$
-PAU-WEI-b9b-5
+PAU-WEI-b9b69149-5
      RDKit          3D
 
  31 33  0  0  1  0  0  0  0  0999 V2000
@@ -14767,7 +14767,7 @@ x0104,x0305,x0770,x1380,x1385
 N#Cc1cccc(C(CCc2ccc(C(F)(F)F)cc2)N2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-JAN-GHE-641-6
+JAN-GHE-6413aaf8-6
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -14878,7 +14878,7 @@ x0104,x0692
 C=CC(=O)N1CCN(Cc2cccc3c(CCNC(=O)[C@@H]4CCCN4)c[nH]c23)CC1
 
 $$$$
-PAU-UNI-b6a-1
+PAU-UNI-b6a619a1-1
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -14991,7 +14991,7 @@ x0107,x0749
 C=C(CCn1c(C2CCCN(C(=O)CCl)C2)nc2ccccc21)Nc1cnccc1C
 
 $$$$
-WAR-XCH-bdd-19
+WAR-XCH-bdd24732-19
      RDKit          3D
 
  26 28  0  0  1  0  0  0  0  0999 V2000
@@ -15093,7 +15093,7 @@ x1334,x1336
 N#Cc1cccc(CCc2ccnc(C3CCCN(C(=O)CCl)C3)c2)c1
 
 $$$$
-BEN-VAN-77c-11
+BEN-VAN-77cef4f8-11
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -15203,7 +15203,7 @@ x0759,x1478
 C=CC(=O)N1CCO[C@@H](c2cc(F)c(F)cc2C[C@H](C)Nc2ccc(C#N)cn2)C1
 
 $$$$
-BOG-INS-15b-1
+BOG-INS-15b226b5-1
      RDKit          3D
 
  27 31  0  0  1  0  0  0  0  0999 V2000
@@ -15309,7 +15309,7 @@ x0692
 N[C@H]1C[C@@H]1c1cnc2c(CN3CCN(C(=O)CCl)C4(CC4)C3)cccc2c1
 
 $$$$
-SEA-TRI-98d-1
+SEA-TRI-98d2cd42-1
      RDKit          3D
 
  32 35  0  0  0  0  0  0  0  0999 V2000
@@ -15424,7 +15424,7 @@ x0830
 C=CC(=O)N1CCN(Cc2cc(Cl)cc3cccc(OCCN4CCN(C)CC4)c23)CC1
 
 $$$$
-BOG-INS-da5-1
+BOG-INS-da52c1c2-1
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -15537,7 +15537,7 @@ x0759
 CN1C(=O)[C@H](Cc2cc(O)cc(F)c2)c2cc(F)cc([C@@H]3CN(C(=O)CCl)CCO3)c21
 
 $$$$
-DAV-CRI-1c7-5
+DAV-CRI-1c77f7a9-5
      RDKit          3D
 
  28 31  0  0  1  0  0  0  0  0999 V2000
@@ -15644,7 +15644,7 @@ x0434,x0759,x0831,x1384,x1392
 Cc1ccccc1C1c2ccccc2CN(C(=O)CCl)C1Cc1cccnc1
 
 $$$$
-AGN-NEW-5f0-1
+AGN-NEW-5f02c22c-1
      RDKit          3D
 
  37 40  0  0  0  0  0  0  0  0999 V2000
@@ -15770,7 +15770,7 @@ x0434,x0540
 C=CC(=O)N1CC(CCN(C(=O)Nc2c(C)ncc(C)c2CCN2CCOCC2)c2cc(C)ccn2)C1
 
 $$$$
-SAL-INS-1ea-3
+SAL-INS-1ea6d4ee-3
      RDKit          3D
 
  28 30  0  0  1  0  0  0  0  0999 V2000
@@ -15876,7 +15876,7 @@ x0759,x1308,x1358,x1402
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(Cl)s2)[C@@H](CCc2ccccc2O)C1
 
 $$$$
-MIH-UNI-e57-3
+MIH-UNI-e573136b-3
      RDKit          3D
 
  28 31  0  0  1  0  0  0  0  0999 V2000
@@ -15984,7 +15984,7 @@ x0072,x0104,x0107,x0678,x0830,x0874,x1093
 O=C(CCl)N1CCN(Cc2cccc3ccccc23)CC1Cc1cccnc1
 
 $$$$
-DAV-CRI-1c7-4
+DAV-CRI-1c77f7a9-4
      RDKit          3D
 
  28 31  0  0  1  0  0  0  0  0999 V2000
@@ -16091,7 +16091,7 @@ x0434,x0759,x0831,x1384,x1392
 O=C(CCl)N1Cc2ccccc2C(c2cccc(Cl)c2)C1Cc1cccnc1
 
 $$$$
-SAL-INS-1c7-3
+SAL-INS-1c7a5a55-3
      RDKit          3D
 
  26 28  0  0  1  0  0  0  0  0999 V2000
@@ -16193,7 +16193,7 @@ x0734,x1374,x1385,x1392,x1458
 CC(C)N(C)C(=O)c1ccc2c(c1)CN(C(=O)CCl)CC2c1c[nH]cn1
 
 $$$$
-DAR-DIA-cab-6
+DAR-DIA-caba39e3-6
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -16304,7 +16304,7 @@ x0195,x0305,x0830,x1249,x1392
 CC(=O)NCCc1c[nH]c2c([C@@H]3CN(C(=O)CCl)Cc4ccccc43)cc(F)cc12
 
 $$$$
-JOH-CHE-350-3
+JOH-CHE-3504ac3d-3
      RDKit          3D
 
  25 27  0  0  1  0  0  0  0  0999 V2000
@@ -16404,7 +16404,7 @@ x0072,x0104,x0991
 C=C(C)CCCc1c[nH]c2c1NC(=O)C1CC(CCCC(=N)N)SC21
 
 $$$$
-DAV-CRI-f9b-2
+DAV-CRI-f9b12666-2
      RDKit          3D
 
  41 44  0  0  1  0  0  0  0  0999 V2000
@@ -16537,7 +16537,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3c(-c4ccc(S(N)(=O)=O)cc4)cccc3s2)CN1C(=O)CCl
 
 $$$$
-BOG-INS-01a-1
+BOG-INS-01af3fef-1
      RDKit          3D
 
  33 37  0  0  1  0  0  0  0  0999 V2000
@@ -16655,7 +16655,7 @@ x0692
 C[C@@H]1CN(Cc2cccc3cc([C@H]4C[C@@H]4N)c(N4CCN(C)CC4)nc23)CCN1C(=O)CCl
 
 $$$$
-NEH-REV-107-1
+NEH-REV-107bcf72-1
      RDKit          3D
 
  24 26  0  0  0  0  0  0  0  0999 V2000
@@ -16751,10 +16751,10 @@ x0830_0
 x0770,x1392
 
 >  <original SMILES>  (146) 
-[NH3+]c1cc2c(cn1)N(Cc1cc(O)ccc1O)CCN2C(=O)CCl
+Nc1cc2c(cn1)N(Cc1cc(O)ccc1O)CCN2C(=O)CCl
 
 $$$$
-MAK-UNK-af8-24
+MAK-UNK-af83ef51-24
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -16862,10 +16862,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (147) 
-CC1CC(C[NH2+]CNc2ccc(C#N)cn2)CC(C[NH+]2CCN(C(=O)CCl)CC2)C1
+CC1CC(CNCNc2ccc(C#N)cn2)CC(CN2CCN(C(=O)CCl)CC2)C1
 
 $$$$
-MAK-UNK-176-6
+MAK-UNK-176ca439-6
      RDKit          3D
 
  34 37  0  0  1  0  0  0  0  0999 V2000
@@ -16982,10 +16982,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (148) 
-CC(CO)(COc1c[nH]c2ccc(F)cc12)Cc1cccc(C[NH+]2CCN(C(=O)CCl)CC2)c1
+CC(CO)(COc1c[nH]c2ccc(F)cc12)Cc1cccc(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-SEA-TRI-078-1
+SEA-TRI-078a8df3-1
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -17096,7 +17096,7 @@ x0395,x0434
 C=CC(=O)N1Cc2c(OCCN3CCOCC3)cccc2[C@H](c2cccc(Cl)c2)C1
 
 $$$$
-STU-CHA-0be-1
+STU-CHA-0be58c98-1
      RDKit          3D
 
  22 23  0  0  1  0  0  0  0  0999 V2000
@@ -17189,7 +17189,7 @@ x0692
 Cc1cccc(CN2CCN(C(=O)CCl)C[C@H]2CC(N)=O)c1
 
 $$$$
-JUA-UNI-bc0-5
+JUA-UNI-bc099708-5
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -17299,7 +17299,7 @@ x1382
 C=CC(=O)Nc1cc(C(=O)NC[C@H](Cc2ccccc2)c2ccccn2)ccc1O
 
 $$$$
-MAK-UNK-e4a-8
+MAK-UNK-e4a48a85-8
      RDKit          3D
 
  31 34  0  0  0  0  0  0  0  0999 V2000
@@ -17410,10 +17410,10 @@ x0830_0
 x0387,x0692
 
 >  <original SMILES>  (152) 
-O=C(Nc1cccc(C[NH+]2CCN(C(=O)CCl)CC2)c1)c1cnc(Cc2ccsc2)s1
+O=C(Nc1cccc(CN2CCN(C(=O)CCl)CC2)c1)c1cnc(Cc2ccsc2)s1
 
 $$$$
-MAK-UNK-af8-29
+MAK-UNK-af83ef51-29
      RDKit          3D
 
  30 33  0  0  1  0  0  0  0  0999 V2000
@@ -17522,10 +17522,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (153) 
-CCNc1ccc(-c2ncn3c(C[NH+]4CCN(C(=O)CCl)CC4)c(C)cnc23)cn1
+CCNc1ccc(-c2ncn3c(CN4CCN(C(=O)CCl)CC4)c(C)cnc23)cn1
 
 $$$$
-PAU-WEI-b9b-1
+PAU-WEI-b9b69149-1
      RDKit          3D
 
  26 28  0  0  1  0  0  0  0  0999 V2000
@@ -17627,7 +17627,7 @@ x0104,x0305,x0770,x1380,x1385
 O=C(CCl)N1CCN(C(CCc2ccccc2)c2cccc(Cl)c2)CC1
 
 $$$$
-INS-INS-9a4-1
+INS-INS-9a4863b0-1
      RDKit          3D
 
  44 48  0  0  1  0  0  0  0  0999 V2000
@@ -17767,7 +17767,7 @@ x1392
 C[C@H](NC(=O)[C@@H]1[C@H](c2cccc3c2CN(C(=O)CCl)[C@@H](c2cc(NC(N)=O)ncn2)[C@H]3c2ccccc2)CC1(F)F)C(N)=O
 
 $$$$
-BEN-VAN-ed8-12
+BEN-VAN-ed886787-12
      RDKit          3D
 
  28 29  0  0  0  0  0  0  0  0999 V2000
@@ -17872,7 +17872,7 @@ x0305,x0434
 C=CC(=O)NC(=O)CNc1cc(CC)cc(Cc2nc(NCC)ccc2F)c1
 
 $$$$
-JAR-IMP-ed4-2
+JAR-IMP-ed466bb3-2
      RDKit          3D
 
  33 37  0  0  1  0  0  0  0  0999 V2000
@@ -17990,7 +17990,7 @@ x0072
 O=C(CCl)N1CC2C(=CC=C2C2CN(C(=O)CCl)Cc3ccccc32)C(c2ccccc2)C1
 
 $$$$
-BEN-VAN-ed8-4
+BEN-VAN-ed886787-4
      RDKit          3D
 
  27 28  0  0  0  0  0  0  0  0999 V2000
@@ -18093,7 +18093,7 @@ x0305,x0434
 C=CC(=O)NC(=O)CNc1cc(F)cc(Cc2nc(NCC)ccc2F)c1
 
 $$$$
-MAK-UNK-176-3
+MAK-UNK-176ca439-3
      RDKit          3D
 
  24 25  0  0  0  0  0  0  0  0999 V2000
@@ -18188,10 +18188,10 @@ x0830_0
 x0104,x0692
 
 >  <original SMILES>  (159) 
-C[NH2+]CCSC(=O)c1cccc(C[NH+]2CCN(C(=O)CCl)CC2)c1
+CNCCSC(=O)c1cccc(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-BEN-VAN-77c-4
+BEN-VAN-77cef4f8-4
      RDKit          3D
 
  29 31  0  0  1  0  0  0  0  0999 V2000
@@ -18299,7 +18299,7 @@ x0759,x1478
 C=CC(=O)N1CCO[C@H](c2ccc(F)c(CO[C@H](C)Nc3cccnc3Cl)c2)C1
 
 $$$$
-BEN-VAN-ed8-10
+BEN-VAN-ed886787-10
      RDKit          3D
 
  27 28  0  0  0  0  0  0  0  0999 V2000
@@ -18402,7 +18402,7 @@ x0305,x0434
 C=CC(=O)NC(=O)CNc1cc(C)cc(Cc2nc(NCC)ccc2F)c1
 
 $$$$
-SEA-TRI-388-1
+SEA-TRI-38830027-1
      RDKit          3D
 
  29 32  0  0  1  0  0  0  0  0999 V2000
@@ -18511,7 +18511,7 @@ x1392
 O=C(CCl)N1Cc2c(OCCN3CCOCC3)cccc2[C@H](c2cocc2Cl)C1
 
 $$$$
-DAN-LON-a5f-9
+DAN-LON-a5fc619e-9
      RDKit          3D
 
  23 25  0  0  1  0  0  0  0  0999 V2000
@@ -18608,7 +18608,7 @@ x0770
 O=C(CCl)N1CCN(Cc2cccc(Cl)c2)C(c2cccs2)C1
 
 $$$$
-PAU-WEI-c6d-1
+PAU-WEI-c6d65c11-1
      RDKit          3D
 
  26 28  0  0  1  0  0  0  0  0999 V2000
@@ -18710,7 +18710,7 @@ x0072,x0305,x1380
 O=C(CCl)N1CC[C@H](C(=O)N2CCCCC2)[C@@H](CCc2ccccc2)C1
 
 $$$$
-SAL-INS-1c7-12
+SAL-INS-1c7a5a55-12
      RDKit          3D
 
  22 24  0  0  1  0  0  0  0  0999 V2000
@@ -18804,7 +18804,7 @@ x0734,x1374,x1385,x1392,x1458
 O=C(CCl)N1CCN(Cc2ccc(Br)s2)C(c2cnc[nH]2)C1
 
 $$$$
-BEN-VAN-ed8-20
+BEN-VAN-ed886787-20
      RDKit          3D
 
  27 28  0  0  0  0  0  0  0  0999 V2000
@@ -18907,7 +18907,7 @@ x0305,x0434
 C=CC(=O)NC(=O)COc1ccc(Cl)c(Cc2nc(NCC)ccc2F)c1
 
 $$$$
-DAV-CRI-f9b-4
+DAV-CRI-f9b12666-4
      RDKit          3D
 
  41 44  0  0  1  0  0  0  0  0999 V2000
@@ -19040,7 +19040,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3c(-c4cccc(S(N)(=O)=O)c4)cccc3s2)CN1C(=O)CCl
 
 $$$$
-MAK-UNK-af8-32
+MAK-UNK-af83ef51-32
      RDKit          3D
 
  32 34  0  0  0  0  0  0  0  0999 V2000
@@ -19151,10 +19151,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (168) 
-N#Cc1ccc(NCCOc2nc(NC[NH+]3CCN(C(=O)CCl)CC3)ccc2C#N)nc1
+N#Cc1ccc(NCCOc2nc(NCN3CCN(C(=O)CCl)CC3)ccc2C#N)nc1
 
 $$$$
-PAU-WEI-b9b-2
+PAU-WEI-b9b69149-2
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -19264,7 +19264,7 @@ x0104,x0305,x0770,x1380,x1385
 O=C(CCl)N1CCN(C(CCc2ccc(C(F)(F)F)cc2)c2cccc(Cl)c2)CC1
 
 $$$$
-STU-CHA-535-1
+STU-CHA-5350f95a-1
      RDKit          3D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
@@ -19372,7 +19372,7 @@ x0770,x1249
 O=C1CN(C(=O)NCc2ccc(Cl)cc2CN2CCN(C(=O)CCl)CC2)CCN1
 
 $$$$
-PED-UNI-d0b-1
+PED-UNI-d0b586b3-1
      RDKit          3D
 
  32 35  0  0  1  0  0  0  0  0999 V2000
@@ -19485,10 +19485,10 @@ x0830_0
 x0195,x1385
 
 >  <original SMILES>  (171) 
-NS(=O)(=O)c1ccc2c(c1)N[C@@H](C[C@H](c1ccc(Br)s1)[NH+]1CCN(C(=O)CCl)CC1)CC2
+NS(=O)(=O)c1ccc2c(c1)N[C@@H](C[C@H](c1ccc(Br)s1)N1CCN(C(=O)CCl)CC1)CC2
 
 $$$$
-MAK-UNK-b2c-5
+MAK-UNK-b2c98f02-5
      RDKit          3D
 
  28 30  0  0  1  0  0  0  0  0999 V2000
@@ -19594,7 +19594,7 @@ x0072,x0678
 O=C(Nc1cccnc1)C(C1CCCCC1)S(=O)(=O)NCCc1ccccc1
 
 $$$$
-STU-CHA-0f7-1
+STU-CHA-0f79177c-1
      RDKit          3D
 
  25 27  0  0  0  0  0  0  0  0999 V2000
@@ -19694,7 +19694,7 @@ x0195,x0305,x0692
 NS(=O)(=O)Cc1nc2cccc(CN3CCN(C(=O)CCl)CC3)c2[nH]1
 
 $$$$
-MAK-UNK-c44-8
+MAK-UNK-c44f4be0-8
      RDKit          3D
 
  32 33  0  0  1  0  0  0  0  0999 V2000
@@ -19807,7 +19807,7 @@ x0072,x0967
 O=C(CS(=O)(=O)NCCc1ccccc1)NC(Cc1ccc(O)cc1)C(=O)NCC#CBr
 
 $$$$
-SEA-TRI-f74-1
+SEA-TRI-f744d433-1
      RDKit          3D
 
  25 27  0  0  1  0  0  0  0  0999 V2000
@@ -19907,7 +19907,7 @@ x0749,x0946
 NS(=O)(=O)CCc1cccc2sc(C3CCCN(C(=O)CCl)C3)nc12
 
 $$$$
-NIM-UNI-363-1
+NIM-UNI-363644a0-1
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -20020,7 +20020,7 @@ x0426,x0434,x0770,x0946
 NS(=O)(=O)c1ccc2cccc(CN3CCN(C(=O)CCl)C(c4cccnc4)C3)c2c1
 
 $$$$
-MAK-UNK-b2c-6
+MAK-UNK-b2c98f02-6
      RDKit          3D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
@@ -20126,7 +20126,7 @@ x0072,x0678
 O=C(CC1(S(=O)(=O)NCCc2ccccc2)CCCCC1)Nc1cccnc1
 
 $$$$
-TAM-UNI-d1c-4
+TAM-UNI-d1c3dd9f-4
      RDKit          3D
 
  28 29  0  0  0  0  0  0  0  0999 V2000
@@ -20232,7 +20232,7 @@ x0692,x1382,x1386,x1392
 CN(C)C(=O)c1ccc(CNS(C)(=O)=O)c(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-NIM-UNI-594-1
+NIM-UNI-594fbbb6-1
      RDKit          3D
 
  28 30  0  0  1  0  0  0  0  0999 V2000
@@ -20338,7 +20338,7 @@ x0195,x0434,x0770,x1374
 O=C(Cn1cc(CN(C(=O)CCl)C2CCS(=O)(=O)C2)nn1)Nc1cccnc1
 
 $$$$
-DAV-CRI-f9b-5
+DAV-CRI-f9b12666-5
      RDKit          3D
 
  42 45  0  0  1  0  0  0  0  0999 V2000
@@ -20473,7 +20473,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(-c4ccc(S(N)(=O)=O)c(O)c4)ccc3s2)CN1C(=O)CCl
 
 $$$$
-DAV-CRI-f9b-10
+DAV-CRI-f9b12666-10
      RDKit          3D
 
  42 45  0  0  1  0  0  0  0  0999 V2000
@@ -20608,7 +20608,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(Cc4cccc(S(N)(=O)=O)c4)ccc3s2)CN1C(=O)CCl
 
 $$$$
-PED-UNI-b79-2
+PED-UNI-b79f0f51-2
      RDKit          3D
 
  39 42  0  0  1  0  0  0  0  0999 V2000
@@ -20737,7 +20737,7 @@ x1249,x1308
 N#Cc1ccc(CNC(=O)N2CCO[C@H](Cc3cc(S(=O)(=O)N4CCN(C(=O)CCl)CC4)ccc3Cl)C2)cc1
 
 $$$$
-DAV-CRI-f9b-9
+DAV-CRI-f9b12666-9
      RDKit          3D
 
  42 45  0  0  1  0  0  0  0  0999 V2000
@@ -20872,7 +20872,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(Cc4ccc(S(N)(=O)=O)cc4)ccc3s2)CN1C(=O)CCl
 
 $$$$
-NAU-LAT-f72-5
+NAU-LAT-f723e322-5
      RDKit          3D
 
  28 30  0  0  0  0  0  0  0  0999 V2000
@@ -20978,7 +20978,7 @@ x0072,x0104,x0397,x0692,x1308,x1336
 Cc1ccc(NCc2ccccc2)c(S(=O)(=O)N2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-JAN-GHE-bf4-1
+JAN-GHE-bf40f168-1
      RDKit          3D
 
  33 35  0  0  0  0  0  0  0  0999 V2000
@@ -21094,7 +21094,7 @@ x0305,x0692,x0755
 C=CC(=O)N1CCN(S(=O)(=O)c2c(F)cccc2OCCCNc2ccc(C#N)cn2)CC1
 
 $$$$
-MAK-UNK-915-1
+MAK-UNK-9159f8ed-1
      RDKit          3D
 
  30 32  0  0  0  0  0  0  0  0999 V2000
@@ -21204,7 +21204,7 @@ x1384
 COC(=O)c1cccc(NS(=O)(=O)CC(=O)Nc2cccc(N3CCCC3=O)c2)c1
 
 $$$$
-MAK-UNK-702-6
+MAK-UNK-702fb7d3-6
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -21341,10 +21341,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (187) 
-O=C(CCl)N1Cc2ccccc2C([NH2+]Cc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)(c2ccccc2)C1
+O=C(CCl)N1Cc2ccccc2C(NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)(c2ccccc2)C1
 
 $$$$
-HEN-UNK-30c-1
+HEN-UNK-30ca0e4e-1
      RDKit          3D
 
  35 38  0  0  1  0  0  0  0  0999 V2000
@@ -21466,7 +21466,7 @@ x0195,x0770,x1385
 NS(=O)(=O)c1cc2c(cc1O)CC(I)C(CCC(c1ccc(Br)s1)N1CCN(C(=O)CCl)CC1)N2
 
 $$$$
-NIM-UNI-bb6-1
+NIM-UNI-bb610069-1
      RDKit          3D
 
  26 28  0  0  1  0  0  0  0  0999 V2000
@@ -21565,10 +21565,10 @@ x0830_0
 x0195,x0434,x0770,x1374
 
 >  <original SMILES>  (189) 
-O=C(CCl)N(Cc1cnnn1Cc1ccc(Cl)cc1)C1CCS(=O)(=O)C1
+O=C(Cn1cc(CN(C(=O)CCl)C2CCS(=O)(=O)C2)nn1)Nc1cccnc1
 
 $$$$
-DAV-CRI-f9b-3
+DAV-CRI-f9b12666-3
      RDKit          3D
 
  41 44  0  0  1  0  0  0  0  0999 V2000
@@ -21701,7 +21701,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(-c4cccc(S(N)(=O)=O)c4)ccc3s2)CN1C(=O)CCl
 
 $$$$
-MAK-UNK-e05-3
+MAK-UNK-e05327b2-3
      RDKit          3D
 
  51 57  0  0  0  0  0  0  0  0999 V2000
@@ -21858,7 +21858,7 @@ x1402
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(Cc6ccc(Cl)s6)c(Cc6ccsc6)cc45)CC3)s2)CC1
 
 $$$$
-NIM-UNI-bb6-2
+NIM-UNI-bb610069-2
      RDKit          3D
 
  28 30  0  0  1  0  0  0  0  0999 V2000
@@ -21961,10 +21961,10 @@ x0830_0
 x0195,x0434,x0770,x1374
 
 >  <original SMILES>  (192) 
-O=C(Cn1cc(CN(C(=O)CCl)C2CCS(=O)(=O)C2)nn1)Nc1cccnc1
+O=C(CCl)N(Cc1cnnn1Cc1ccc(Cl)cc1)C1CCS(=O)(=O)C1
 
 $$$$
-NIM-UNI-594-2
+NIM-UNI-594fbbb6-2
      RDKit          3D
 
  26 28  0  0  1  0  0  0  0  0999 V2000
@@ -22066,7 +22066,7 @@ x0195,x0434,x0770,x1374
 O=C(CCl)N(Cc1cnnn1Cc1ccc(Cl)cc1)C1CCS(=O)(=O)C1
 
 $$$$
-DAV-CRI-f9b-1
+DAV-CRI-f9b12666-1
      RDKit          3D
 
  41 44  0  0  1  0  0  0  0  0999 V2000
@@ -22199,7 +22199,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(-c4ccc(S(N)(=O)=O)cc4)ccc3s2)CN1C(=O)CCl
 
 $$$$
-DR-UNK-dd7-3
+DRV-UNK-dd7f8c68-3
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -22313,7 +22313,7 @@ x1086,x1093
 C=CS(=O)(=O)N1CCN(c2ccc(C3NC(=O)c4ccccc43)cc2S(N)(=O)=O)CC1
 
 $$$$
-DAV-CRI-f9b-8
+DAV-CRI-f9b12666-8
      RDKit          3D
 
  42 45  0  0  1  0  0  0  0  0999 V2000
@@ -22448,7 +22448,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3c(-c4ccc(O)c(S(N)(=O)=O)c4)cccc3s2)CN1C(=O)CCl
 
 $$$$
-MAK-UNK-af8-15
+MAK-UNK-af83ef51-15
      RDKit          3D
 
  31 32  0  0  1  0  0  0  0  0999 V2000
@@ -22557,10 +22557,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (197) 
-Cc1cccc(C[NH+]2CCN(C(=O)CCl)CC2)c1CC(NC(=O)CS(N)(=O)=O)C(C)O
+Cc1cccc(CN2CCN(C(=O)CCl)CC2)c1CC(NC(=O)CS(N)(=O)=O)C(C)O
 
 $$$$
-MAK-UNK-e05-4
+MAK-UNK-e05327b2-4
      RDKit          3D
 
  51 57  0  0  0  0  0  0  0  0999 V2000
@@ -22717,7 +22717,7 @@ x1402
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(Cc6ccc(Cl)s6)c(Cc6ccsc6)cc45)CC3)s2)CC1
 
 $$$$
-MAK-UNK-e05-1
+MAK-UNK-e05327b2-1
      RDKit          3D
 
  52 58  0  0  0  0  0  0  0  0999 V2000
@@ -22876,7 +22876,7 @@ x1402
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CCc6ccc(Cl)s6)c(Cc6cccs6)cc45)CC3)s2)CC1
 
 $$$$
-PED-UNI-b79-1
+PED-UNI-b79f0f51-1
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -23008,7 +23008,7 @@ x1249,x1308
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(Cl)c(C[C@@H]3CN(C(=O)NCc4ccc([N+](=O)[O-])cc4)CCO3)c2)CC1
 
 $$$$
-MAK-UNK-8fd-39
+MAK-UNK-8fdbca50-39
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -23137,10 +23137,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (201) 
-CC(C)N(C)/C(=C/[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C1CCN(C(=O)CCl)CC1
+CC(C)N(C)/C(=C/NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C1CCN(C(=O)CCl)CC1
 
 $$$$
-DR-UNK-640-3
+DRV-UNK-64047f27-3
      RDKit          3D
 
  31 34  0  0  1  0  0  0  0  0999 V2000
@@ -23254,7 +23254,7 @@ x1086,x1093
 C=CS(=O)(=O)N1CCN(c2ccc(C3NC(=O)c4ccccc43)cc2S(N)(=O)=O)CC1
 
 $$$$
-JAN-GHE-bf4-3
+JAN-GHE-bf40f168-3
      RDKit          3D
 
  35 38  0  0  1  0  0  0  0  0999 V2000
@@ -23375,7 +23375,7 @@ x0305,x0692,x0755
 C=CC(=O)N1C[C@H]2CN(S(=O)(=O)c3c(F)cccc3OCCCNc3ccc(C#N)cn3)C[C@H]2C1
 
 $$$$
-MAK-UNK-8fd-2
+MAK-UNK-8fdbca50-2
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -23506,7 +23506,7 @@ x0305
 CC(Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(C)N(C)C(=O)C1CCN(C(=O)CCl)CC1
 
 $$$$
-MAK-UNK-8fd-26
+MAK-UNK-8fdbca50-26
      RDKit          3D
 
  40 43  0  0  0  0  0  0  0  0999 V2000
@@ -23635,10 +23635,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (205) 
-C[NH2+]Cc1cc(-c2ccccc2CN(C(=O)C2CCN(C(=O)CCl)CC2)C(C)C)n(S(=O)(=O)c2cccnc2)c1
+CNCc1cc(-c2ccccc2CN(C(=O)C2CCN(C(=O)CCl)CC2)C(C)C)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-PAU-UNI-f43-1
+PAU-UNI-f4334617-1
      RDKit          3D
 
  28 30  0  0  1  0  0  0  0  0999 V2000
@@ -23744,7 +23744,7 @@ x0749
 NS(=O)(=O)c1ccc2c(c1)N(CCCCC1CCCN(C(=O)CCl)C1)CCC2
 
 $$$$
-DAV-CRI-f9b-7
+DAV-CRI-f9b12666-7
      RDKit          3D
 
  42 45  0  0  1  0  0  0  0  0999 V2000
@@ -23879,7 +23879,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(-c4ccc(O)c(S(N)(=O)=O)c4)ccc3s2)CN1C(=O)CCl
 
 $$$$
-MAK-UNK-702-12
+MAK-UNK-702fb7d3-12
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -24015,10 +24015,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (208) 
-O=C(CCl)N1Cc2ccccc2C(c2ccccc2[NH2+]Cc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)C1
+O=C(CCl)N1Cc2ccccc2C(c2ccccc2NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)C1
 
 $$$$
-MAK-UNK-702-8
+MAK-UNK-702fb7d3-8
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -24155,10 +24155,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (209) 
-O=C(CCl)N1Cc2c([NH2+]Cc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)cccc2C(c2ccccc2)C1
+O=C(CCl)N1Cc2c(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)cccc2C(c2ccccc2)C1
 
 $$$$
-MAK-UNK-c44-5
+MAK-UNK-c44f4be0-5
      RDKit          3D
 
  32 33  0  0  1  0  0  0  0  0999 V2000
@@ -24271,7 +24271,7 @@ x0072,x0967
 CC(=O)NC(C(=O)NCC#CBr)C(c1ccc(O)cc1)S(=O)(=O)NCCc1ccccc1
 
 $$$$
-MAK-UNK-8fd-40
+MAK-UNK-8fdbca50-40
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -24400,10 +24400,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (211) 
-CC(C)C(C)([NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(=O)C1CCN(C(=O)CCl)CC1
+CC(C)C(C)(NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(=O)C1CCN(C(=O)CCl)CC1
 
 $$$$
-MAK-UNK-8fd-36
+MAK-UNK-8fdbca50-36
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -24531,10 +24531,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (212) 
-CC(C)N(C)C(=O)C1CCN(C(=O)CCl)C([NH2+]Cc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)C1
+CC(C)N(C)C(=O)C1CCN(C(=O)CCl)C(NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)C1
 
 $$$$
-MAK-UNK-702-16
+MAK-UNK-702fb7d3-16
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -24670,10 +24670,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (213) 
-O=C(CCl)N1Cc2ccccc2C(c2ccccc2[NH2+]Cc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)C1
+O=C(CCl)N1Cc2ccccc2C(c2ccccc2NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)C1
 
 $$$$
-MAK-UNK-8fd-41
+MAK-UNK-8fdbca50-41
      RDKit          3D
 
  40 43  0  0  0  0  0  0  0  0999 V2000
@@ -24801,10 +24801,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (214) 
-CN(C(=O)C1CCN(C(=O)CCl)CC1)C(C)(C)[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
+CN(C(=O)C1CCN(C(=O)CCl)CC1)C(C)(C)NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-MAK-UNK-af8-18
+MAK-UNK-af83ef51-18
      RDKit          3D
 
  38 41  0  0  0  0  0  0  0  0999 V2000
@@ -24929,10 +24929,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (215) 
-Cc1ccc(Oc2cc(O)ccc2N(C)c2cc(S(N)(=O)=O)ncn2)c(C[NH+]2CCN(C(=O)CCl)CC2)c1
+Cc1ccc(Oc2cc(O)ccc2N(C)c2cc(S(N)(=O)=O)ncn2)c(CN2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-MAK-UNK-af8-17
+MAK-UNK-af83ef51-17
      RDKit          3D
 
  32 34  0  0  1  0  0  0  0  0999 V2000
@@ -25044,10 +25044,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (216) 
-Cc1cc(C[NH+]2CCN(C(=O)CCl)CC2)cc(NCC(C)c2ccc(S(N)(=O)=O)cc2)c1
+Cc1cc(CN2CCN(C(=O)CCl)CC2)cc(NCC(C)c2ccc(S(N)(=O)=O)cc2)c1
 
 $$$$
-MAK-UNK-8fd-12
+MAK-UNK-8fdbca50-12
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -25176,10 +25176,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (217) 
-C[NH2+]Cc1cc(-c2cccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)c2F)n(S(=O)(=O)c2cccnc2)c1
+CNCc1cc(-c2cccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)c2F)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-MAK-UNK-702-9
+MAK-UNK-702fb7d3-9
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -25316,10 +25316,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (218) 
-O=C(CCl)N1Cc2cc([NH2+]Cc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)ccc2C(c2ccccc2)C1
+O=C(CCl)N1Cc2cc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)ccc2C(c2ccccc2)C1
 
 $$$$
-MAK-UNK-8fd-1
+MAK-UNK-8fdbca50-1
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -25448,10 +25448,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (219) 
-CC(C[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)N(C)C(=O)C1CCN(C(=O)CCl)CC1
+CC(CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)N(C)C(=O)C1CCN(C(=O)CCl)CC1
 
 $$$$
-MAK-UNK-8fd-13
+MAK-UNK-8fdbca50-13
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -25580,10 +25580,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (220) 
-C[NH2+]Cc1cc(-c2ccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)cc2F)n(S(=O)(=O)c2cccnc2)c1
+CNCc1cc(-c2ccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)cc2F)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-MAK-UNK-8fd-7
+MAK-UNK-8fdbca50-7
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -25712,10 +25712,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (221) 
-C[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cncc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)c2)c1
+CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cncc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)c2)c1
 
 $$$$
-MAK-UNK-8fd-17
+MAK-UNK-8fdbca50-17
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -25846,7 +25846,7 @@ x0305
 CC(C)N(C(=O)C1CCN(C(=O)CCl)CC1)C(C)Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-MAK-UNK-e05-2
+MAK-UNK-e05327b2-2
      RDKit          3D
 
  52 58  0  0  0  0  0  0  0  0999 V2000
@@ -26005,7 +26005,7 @@ x1402
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CCc6ccc(Cl)s6)c(Cc6ccsc6)cc45)CC3)s2)CC1
 
 $$$$
-MAK-UNK-8fd-14
+MAK-UNK-8fdbca50-14
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -26134,10 +26134,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (224) 
-C[NH2+]Cc1cc(-c2cc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)ccc2F)n(S(=O)(=O)c2cccnc2)c1
+CNCc1cc(-c2cc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)ccc2F)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-MAK-UNK-702-5
+MAK-UNK-702fb7d3-5
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -26273,10 +26273,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (225) 
-O=C(CCl)N1CC(c2ccccc2)c2ccccc2C1[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
+O=C(CCl)N1CC(c2ccccc2)c2ccccc2C1NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-MAK-UNK-8fd-11
+MAK-UNK-8fdbca50-11
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -26405,10 +26405,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (226) 
-C[NH2+]Cc1cc(-c2ccccc2CC(C)N(C)C(=O)C2CCN(C(=O)CCl)CC2)n(S(=O)(=O)c2cccnc2)c1
+CNCc1cc(-c2ccccc2CC(C)N(C)C(=O)C2CCN(C(=O)CCl)CC2)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-MAK-UNK-8fd-3
+MAK-UNK-8fdbca50-3
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -26537,10 +26537,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (227) 
-C[NH2+]C(c1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(C)N(C)C(=O)C1CCN(C(=O)CCl)CC1
+CNC(c1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(C)N(C)C(=O)C1CCN(C(=O)CCl)CC1
 
 $$$$
-MAK-UNK-e05-6
+MAK-UNK-e05327b2-6
      RDKit          3D
 
  61 68  0  0  1  0  0  0  0  0999 V2000
@@ -26718,7 +26718,7 @@ x1402
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CN6CCN(S(=O)(=O)C7CCC(Cl)S7)CC6)c(CCc6ccsc6)cc45)CC3)s2)CC1
 
 $$$$
-NIY-UNK-626-4
+NIY-UNK-62612a68-4
      RDKit          3D
 
  30 32  0  0  0  0  0  0  0  0999 V2000
@@ -26828,7 +26828,7 @@ x0195,x0305,x0387,x0689,x0736,x1374
 C#Cc1cncc(Nc2csc(NS(=O)(=O)CCN3CCN(C(=O)CCl)CC3)c2)c1
 
 $$$$
-MAK-UNK-702-15
+MAK-UNK-702fb7d3-15
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -26964,10 +26964,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (230) 
-O=C(CCl)N1Cc2ccccc2C(c2cccc([NH2+]Cc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)c2)C1
+O=C(CCl)N1Cc2ccccc2C(c2cccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)c2)C1
 
 $$$$
-MAK-UNK-8fd-6
+MAK-UNK-8fdbca50-6
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -27096,10 +27096,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (231) 
-C[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cnccc2C(C)N(C)C(=O)C2CCN(C(=O)CCl)CC2)c1
+CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cnccc2C(C)N(C)C(=O)C2CCN(C(=O)CCl)CC2)c1
 
 $$$$
-MAK-UNK-8fd-37
+MAK-UNK-8fdbca50-37
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -27228,10 +27228,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (232) 
-CC(C)N(C)C(=O)C1CCN(C(=O)CCl)CC1[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
+CC(C)N(C)C(=O)C1CCN(C(=O)CCl)CC1NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
 
 $$$$
-MAK-UNK-702-13
+MAK-UNK-702fb7d3-13
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -27367,10 +27367,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (233) 
-O=C(CCl)N1Cc2ccccc2C(c2cccc([NH2+]Cc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)c2)C1
+O=C(CCl)N1Cc2ccccc2C(c2cccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)c2)C1
 
 $$$$
-NIY-UNK-626-1
+NIY-UNK-62612a68-1
      RDKit          3D
 
  33 36  0  0  0  0  0  0  0  0999 V2000
@@ -27487,7 +27487,7 @@ x0195,x0305,x0387,x0689,x0736,x1374
 C#Cc1ccc(Nc2csc(CS(=O)(=O)Cc3cccc4c3CN(C(=O)CCl)CC4)c2)nc1
 
 $$$$
-JAN-GHE-bf4-7
+JAN-GHE-bf40f168-7
      RDKit          3D
 
  32 34  0  0  0  0  0  0  0  0999 V2000
@@ -27601,7 +27601,7 @@ x0305,x0692,x0755
 C=CC(=O)NC1CN(S(=O)(=O)c2c(F)cccc2OCCCNc2ccc(C#N)cn2)C1
 
 $$$$
-MAK-UNK-8fd-8
+MAK-UNK-8fdbca50-8
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -27730,10 +27730,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (236) 
-C[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2ccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)nc2)c1
+CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2ccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)nc2)c1
 
 $$$$
-MAK-UNK-8fd-9
+MAK-UNK-8fdbca50-9
      RDKit          3D
 
  40 43  0  0  1  0  0  0  0  0999 V2000
@@ -27862,10 +27862,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (237) 
-C[NH2+]Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)c2)c1
+CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)c2)c1
 
 $$$$
-MAK-UNK-8fd-38
+MAK-UNK-8fdbca50-38
      RDKit          3D
 
  40 43  0  0  0  0  0  0  0  0999 V2000
@@ -27994,10 +27994,10 @@ x0830_0
 x0305
 
 >  <original SMILES>  (238) 
-CC(C)N(C)C(=O)C1([NH2+]Cc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)CCN(C(=O)CCl)CC1
+CC(C)N(C)C(=O)C1(NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)CCN(C(=O)CCl)CC1
 
 $$$$
-MAK-UNK-af8-16
+MAK-UNK-af83ef51-16
      RDKit          3D
 
  37 39  0  0  1  0  0  0  0  0999 V2000
@@ -28119,10 +28119,10 @@ x0830_0
 x0072,x0104,x0161,x0195,x0305,x0387,x0692
 
 >  <original SMILES>  (239) 
-C[NH2+]C1C(O)OCC(O)C1OC(C(=O)NS(N)(=O)=O)c1ccc(C[NH+]2CCN(C(=O)CCl)CC2)cc1C
+CNC1C(O)OCC(O)C1OC(C(=O)NS(N)(=O)=O)c1ccc(CN2CCN(C(=O)CCl)CC2)cc1C
 
 $$$$
-MAK-UNK-702-14
+MAK-UNK-702fb7d3-14
      RDKit          3D
 
  43 48  0  0  1  0  0  0  0  0999 V2000
@@ -28259,10 +28259,10 @@ x0830_0
 x0387
 
 >  <original SMILES>  (240) 
-O=C(CCl)N1Cc2ccccc2C(c2ccc([NH2+]Cc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)cc2)C1
+O=C(CCl)N1Cc2ccccc2C(c2ccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)cc2)C1
 
 $$$$
-MAK-UNK-e05-5
+MAK-UNK-e05327b2-5
      RDKit          3D
 
  58 65  0  0  0  0  0  0  0  0999 V2000
@@ -28433,7 +28433,7 @@ x1402
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CN6CCN(c7ccc(Cl)s7)CC6)c(CCc6ccsc6)cc45)CC3)s2)CC1
 
 $$$$
-MAK-UNK-e05-7
+MAK-UNK-e05327b2-7
      RDKit          3D
 
  61 68  0  0  0  0  0  0  0  0999 V2000
@@ -28611,7 +28611,7 @@ x1402
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CN6CCN(S(=O)(=O)c7ccc(Cl)s7)CC6)c(CCc6ccsc6)cc45)CC3)s2)CC1
 
 $$$$
-MAK-UNK-c44-6
+MAK-UNK-c44f4be0-6
      RDKit          3D
 
  32 33  0  0  1  0  0  0  0  0999 V2000
@@ -28724,7 +28724,7 @@ x0072,x0967
 CC(=O)NC(Cc1ccc(O)cc1)(C(=O)NCC#CBr)S(=O)(=O)NCCc1ccccc1
 
 $$$$
-DAV-CRI-f9b-6
+DAV-CRI-f9b12666-6
      RDKit          3D
 
  42 45  0  0  1  0  0  0  0  0999 V2000
@@ -28838,7 +28838,7 @@ x0161,x0749,x0981
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3c(-c4ccc(S(N)(=O)=O)c(O)c4)cccc3s2)CN1C(=O)CCl
 
 $$$$
-JAN-GHE-641-7
+JAN-GHE-6413aaf8-7
      RDKit          3D
 
  27 29  0  0  0  0  0  0  0  0999 V2000
@@ -28921,7 +28921,7 @@ x0104,x0692
 C=CC(=O)N1CCN(Cc2cccc3c(CCNS(C)(=O)=O)c[nH]c23)CC1
 
 $$$$
-JAN-GHE-bf4-8
+JAN-GHE-bf40f168-8
      RDKit          3D
 
  32 34  0  0  0  0  0  0  0  0999 V2000
@@ -29014,7 +29014,7 @@ x0305,x0692,x0755
 C=CC(=O)N1CC(NS(=O)(=O)c2c(F)cccc2OCCCNc2ccc(C#N)cn2)C1
 
 $$$$
-JUA-UNI-bc0-1
+JUA-UNI-bc099708-1
      RDKit          3D
 
  24 25  0  0  1  0  0  0  0  0999 V2000
@@ -29090,7 +29090,7 @@ x1382
 C=CC(=O)NCC(=O)N(Cc1ccccc1)C[C@H](O)c1cccs1
 
 $$$$
-NIY-UNK-626-2
+NIY-UNK-62612a68-2
      RDKit          3D
 
  33 36  0  0  1  0  0  0  0  0999 V2000
@@ -29186,7 +29186,7 @@ x0195,x0305,x0387,x0689,x0736,x1374
 C#Cc1ccc(Nc2csc(CS(=N)(=O)Cc3cccc4c3CN(C(=O)CCl)CC4)c2)nc1
 
 $$$$
-SEA-TRI-6cb-1
+SEA-TRI-6cb4f71a-1
      RDKit          3D
 
  30 32  0  0  1  0  0  0  0  0999 V2000
@@ -29275,7 +29275,7 @@ x0161,x0770
 C=CS(=O)(=O)N1CCN([C@@H](c2cc(Cl)cc(CCS(N)(=O)=O)c2)c2cccs2)CC1
 
 $$$$
-STU-CHA-128-2
+STU-CHA-128b80be-2
      RDKit          3D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
@@ -29362,7 +29362,7 @@ x0195,x0770,x1249
 C=CC(=O)N1CCN(Cc2cc(Cl)ccc2CNS(=O)(=O)N2CCOCC2)CC1
 
 $$$$
-STU-CHA-6d5-1
+STU-CHA-6d5cfe2b-1
      RDKit          3D
 
  29 31  0  0  0  0  0  0  0  0999 V2000
