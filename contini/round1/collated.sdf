@@ -196,7 +196,7 @@ N
 x0830_0
 
 >  <ref_mols>  (2) 
-x0104,x0305,x0770,x1380,x1385
+x0104_0,x0305_0,x0770_0,x1380_0,x1385_0
 
 >  <original SMILES>  (2) 
 CC(=O)NCCc1c[nH]c2c(C(CCc3ccc(C(F)(F)F)cc3)N3CCN(C(=O)CCl)CC3)cccc12
@@ -318,7 +318,7 @@ N
 x0830_0
 
 >  <ref_mols>  (3) 
-x0104,x0305,x0830,x1249,x1385
+x0104_0,x0305_0,x0830_0,x1249_0,x1385_0
 
 >  <original SMILES>  (3) 
 CC(=O)NCCc1c[nH]c2c(C(c3ccc(Br)s3)N3CCN(C(=O)CCl)CC3)cccc12
@@ -435,7 +435,7 @@ N
 x0830_0
 
 >  <ref_mols>  (4) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (4) 
 CCNC1CC(c2cccc(CN3CCN(C(=O)CCl)CC3)c2)CC(O)C1OC#N
@@ -569,7 +569,7 @@ N
 x0830_0
 
 >  <ref_mols>  (5) 
-x0107,x0425,x0426,x0678,x1392,x1412
+x0107_0,x0425_0,x0426_0,x0678_0,x1392_0,x1412_0
 
 >  <original SMILES>  (5) 
 O=C(O)CCCc1cncc(NC(=O)Nc2cc(O)ccc2C2CN(C(=O)CCl)Cc3ccc(O)cc32)c1
@@ -687,7 +687,7 @@ N
 x0830_0
 
 >  <ref_mols>  (6) 
-x0072,x0104,x0107,x0434,x0540,x1375,x1493
+x0072_0,x0104_0,x0107_0,x0434_0,x0540_0,x1375_0,x1493_0
 
 >  <original SMILES>  (6) 
 CC(=O)NCCc1c[nH]c2c(CCCC3CN(C(=O)CCl)CCN3C(C)=O)cccc12
@@ -814,7 +814,7 @@ N
 x0830_0
 
 >  <ref_mols>  (7) 
-x0104,x0305,x0770,x1380,x1385
+x0104_0,x0305_0,x0770_0,x1380_0,x1385_0
 
 >  <original SMILES>  (7) 
 CC(=O)NCCc1c[nH]c2c(C(CCc3ccc(C)cc3)N3CCN(C(=O)CCl)CC3)cccc12
@@ -928,7 +928,7 @@ N
 x0830_0
 
 >  <ref_mols>  (8) 
-x0104,x0195,x0305,x0830
+x0104_0,x0195_0,x0305_0,x0830_0
 
 >  <original SMILES>  (8) 
 N#Cc1ccc(CNC(=O)N2CCOCC2)c(CN2CCN(C(=O)CCl)CC2)c1
@@ -1049,7 +1049,7 @@ N
 x0830_0
 
 >  <ref_mols>  (9) 
-x0195,x0305,x0830,x1249,x1392
+x0195_0,x0305_0,x0830_0,x1249_0,x1392_0
 
 >  <original SMILES>  (9) 
 N#Cc1cnc(CNC(=O)N2CCOCC2)c([C@@H]2CN(C(=O)CCl)Cc3ccccc32)c1
@@ -1174,7 +1174,7 @@ N
 x0830_0
 
 >  <ref_mols>  (10) 
-x0104,x0305,x0770,x1380,x1385
+x0104_0,x0305_0,x0770_0,x1380_0,x1385_0
 
 >  <original SMILES>  (10) 
 CC(=O)NCCc1c[nH]c2c(C(CCc3ccccc3)N3CCN(C(=O)CCl)CC3)cccc12
@@ -1284,7 +1284,7 @@ Y
 x0830_0
 
 >  <ref_mols>  (11) 
-x0692,x1382,x1386,x1392
+x0692_0,x1382_0,x1386_0,x1392_0
 
 >  <original SMILES>  (11) 
 CC(=O)NCCc1cn(C)c2c(CN3CCN(C(=O)CCl)CC3)cccc12
@@ -1401,7 +1401,7 @@ N
 x0830_0
 
 >  <ref_mols>  (12) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (12) 
 CCNC1CC(Oc2cccc(CN3CCN(C(=O)CCl)CC3)c2)CCC1OC#N
@@ -1518,7 +1518,7 @@ N
 x0830_0
 
 >  <ref_mols>  (13) 
-x0104,x0195,x0305,x0874,x1420
+x0104_0,x0195_0,x0305_0,x0874_0,x1392_0
 
 >  <original SMILES>  (13) 
 CC(=O)NCCc1c[nH]c2c(C3CN(C(=O)CCl)Cc4ccccc43)c(F)ccc12
@@ -1635,7 +1635,7 @@ N
 x0830_0
 
 >  <ref_mols>  (14) 
-x0692,x1382,x1386,x1392
+x0692_0,x1382_0,x1386_0,x1392_0
 
 >  <original SMILES>  (14) 
 O=C(CCl)N1Cc2ccccc2C(c2cccc(CNC(=O)N3CCOCC3)c2)C1
@@ -1754,7 +1754,7 @@ N
 x0830_0
 
 >  <ref_mols>  (15) 
-x0195,x0305,x0830,x1249,x1392
+x0195_0,x0305_0,x0830_0,x1249_0,x1392_0
 
 >  <original SMILES>  (15) 
 O=C(CCl)N1Cc2ccccc2[C@H](c2cc(F)cnc2CNC(=O)N2CCOCC2)C1
@@ -1866,7 +1866,7 @@ N
 x0830_0
 
 >  <ref_mols>  (16) 
-x0104,x0195,x0305,x0830
+x0104_0,x0195_0,x0305_0,x0830_0
 
 >  <original SMILES>  (16) 
 COc1cc(CN2CCN(C(=O)CCl)CC2)c2c(c1)C(CCNC(C)=O)=CC2
@@ -1997,7 +1997,7 @@ N
 x0830_0
 
 >  <ref_mols>  (17) 
-x0759
+x0759_0
 
 >  <original SMILES>  (17) 
 Cc1cc([C@@H]2CN(C(=O)CCl)CCO2)c(-c2c(F)ccc3c2C[C@@H](C(=O)[C@H]2C[C@@H]2O)N(C)C3)cc1F
@@ -2106,7 +2106,7 @@ Y
 x0830_0
 
 >  <ref_mols>  (18) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (18) 
 COC1CCCC(Oc2cccc(CN3CCN(C(=O)CCl)CC3)c2)C1
@@ -2225,7 +2225,7 @@ N
 x0830_0
 
 >  <ref_mols>  (19) 
-x0072,x0104,x0107,x0678,x0830,x0874,x1093
+x0072_0,x0104_0,x0107_0,x0678_0,x0830_0,x0874_0,x1093_0
 
 >  <original SMILES>  (19) 
 O=C(CCl)N1CCN(Cc2cccc3ccccc23)CC1c1cnc2[nH]cccc1-2
@@ -2340,7 +2340,7 @@ N
 x0830_0
 
 >  <ref_mols>  (20) 
-x0759
+x0759_0
 
 >  <original SMILES>  (20) 
 O=C(CCl)N1CCO[C@H](c2cc(F)cc3c2CC[C@@H]3Cc2cc(O)cc(F)c2)C1
@@ -2452,7 +2452,7 @@ N
 x0830_0
 
 >  <ref_mols>  (21) 
-x0104,x0195,x0305,x0830
+x0104_0,x0195_0,x0305_0,x0830_0
 
 >  <original SMILES>  (21) 
 COc1cc(CN2CCN(C(=O)CCl)CC2)c2[nH]cc(CCNC(C)=O)c2c1
@@ -2551,7 +2551,7 @@ N
 x0830_0
 
 >  <ref_mols>  (22) 
-x0107,x0749,x0759
+x0107_0,x0749_0,x0759_0
 
 >  <original SMILES>  (22) 
 NCC1CCc2[nH]c(C3CCCN(C(=O)CCl)C3)cc2C1
@@ -2662,7 +2662,7 @@ Y
 x0830_0
 
 >  <ref_mols>  (23) 
-x0104,x0305,x0770,x1380,x1385
+x0104_0,x0305_0,x0770_0,x1380_0,x1385_0
 
 >  <original SMILES>  (23) 
 N#Cc1cccc(C(CCc2ccccc2)N2CCN(C(=O)CCl)CC2)c1
@@ -2777,7 +2777,7 @@ N
 x0830_0
 
 >  <ref_mols>  (24) 
-x0759
+x0759_0
 
 >  <original SMILES>  (24) 
 O=C(CCl)N1CCO[C@H](c2cc(F)cc3c2CO[C@@H]3Cc2cc(O)cc(F)c2)C1
@@ -2890,7 +2890,7 @@ N
 x0830_0
 
 >  <ref_mols>  (25) 
-x1334,x1336
+x1334_0,x1336_0
 
 >  <original SMILES>  (25) 
 Cn1ccc2cccc(CCc3ccnc(C4CCCN(C(=O)CCl)C4)c3)c21
@@ -2994,7 +2994,7 @@ N
 x0830_0
 
 >  <ref_mols>  (26) 
-x0072,x0104,x0107,x0678,x0830,x0874,x1093
+x0072_0,x0104_0,x0107_0,x0678_0,x0830_0,x0874_0,x1093_0
 
 >  <original SMILES>  (26) 
 NC(=O)Cc1ccccc1C1CN(C(=O)CCl)Cc2ccccc21
@@ -3116,7 +3116,7 @@ N
 x0830_0
 
 >  <ref_mols>  (27) 
-x1384,x1392
+x1384_0,x1392_0
 
 >  <original SMILES>  (27) 
 O=C1CCCN1c1cccc(C2c3ccccc3C(c3ccccc3)CN2C(=O)CCl)c1
@@ -3220,7 +3220,7 @@ N
 x0830_0
 
 >  <ref_mols>  (28) 
-x0692,x0749,x0770,x0830,x1386,x1418
+x0692_0,x0749_0,x0770_0,x0830_0,x1386_0,x1418_0
 
 >  <original SMILES>  (28) 
 O=C(CCl)N1CCCC(n2cc(COCc3ccccc3)nn2)C1
@@ -3348,7 +3348,7 @@ N
 x0830_0
 
 >  <ref_mols>  (29) 
-x0692
+x0692_0
 
 >  <original SMILES>  (29) 
 O=C(CCl)N1CCN(C2(c3cc(C#Cc4ccc(F)cc4O)c4ccc(F)cn34)CC2)[C@H]2CC21
@@ -3452,7 +3452,7 @@ N
 x0830_0
 
 >  <ref_mols>  (30) 
-x0104,x0195,x0305,x0874,x1420
+x0104_0,x0195_0,x0305_0,x0874_0,x1392_0
 
 >  <original SMILES>  (30) 
 NS(=O)(=O)c1ccc2ccc(C3CN(C(=O)CCl)Cc4ccccc43)cc2c1
@@ -3564,7 +3564,7 @@ Y
 x0830_0
 
 >  <ref_mols>  (31) 
-x0104,x0305,x0770,x1380,x1385
+x0104_0,x0305_0,x0770_0,x1380_0,x1385_0
 
 >  <original SMILES>  (31) 
 Cc1ccc(CCC(c2cccc(C#N)c2)N2CCN(C(=O)CCl)CC2)cc1
@@ -3679,7 +3679,7 @@ N
 x0830_0
 
 >  <ref_mols>  (32) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (32) 
 C=CC(=O)NC1CN(Cc2cccc3c(CCNC(=O)c4ccc[nH]4)c[nH]c23)C1
@@ -3822,7 +3822,7 @@ N
 x0830_0
 
 >  <ref_mols>  (33) 
-x0967
+x0967_0
 
 >  <original SMILES>  (33) 
 Cc1cccc(CO)c1NC(=O)NC(Cc1ccc(O)cc1)C(=O)N(CCCC(N)=O)CCN1CCCN(C(=O)CCl)C1
@@ -3927,7 +3927,7 @@ N
 x0830_0
 
 >  <ref_mols>  (34) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (34) 
 CC(=O)NCCCC(=O)NCC(=O)NC[N+]1CCN(C(=O)CCl)CC1
@@ -4060,7 +4060,7 @@ N
 x0830_0
 
 >  <ref_mols>  (35) 
-x0107,x0425,x0426,x0678,x1392,x1412
+x0107_0,x0425_0,x0426_0,x0678_0,x1392_0,x1412_0
 
 >  <original SMILES>  (35) 
 O=C(Nc1cc2cc(C(=O)O)cnc2[nH]1)Nc1cc(O)ccc1C1CN(C(=O)CCl)Cc2ccccc21
@@ -4186,7 +4186,7 @@ N
 x0830_0
 
 >  <ref_mols>  (36) 
-x0759
+x0759_0
 
 >  <original SMILES>  (36) 
 C[C@@H](N)C(=O)[C@H]1Cc2c(ccc(F)c2-c2cc(F)ccc2[C@@H]2CN(C(=O)CCl)CCO2)N(C)C1
@@ -4308,7 +4308,7 @@ N
 x0830_0
 
 >  <ref_mols>  (37) 
-x0107,x0425,x0426,x0678,x1392,x1412
+x0107_0,x0425_0,x0426_0,x0678_0,x1392_0,x1412_0
 
 >  <original SMILES>  (37) 
 O=C(O)CCCc1cncc(NC(=O)Nc2cc(O)ccc2C2CN(C(=O)CCl)CCN2)c1
@@ -4419,7 +4419,7 @@ N
 x0830_0
 
 >  <ref_mols>  (38) 
-x0967,x1382
+x0967_0,x1382_0
 
 >  <original SMILES>  (38) 
 CC(=O)NC(C(=O)NC(NC(=O)CCl)c1cccc(Cl)c1)c1ccc(O)cc1
@@ -4530,7 +4530,7 @@ N
 x0830_0
 
 >  <ref_mols>  (39) 
-x0770,x0967
+x0770_0,x0967_0
 
 >  <original SMILES>  (39) 
 CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NCCN1CCN(C(=O)CCl)CC1
@@ -4649,7 +4649,7 @@ N
 x0830_0
 
 >  <ref_mols>  (40) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (40) 
 COC1CN(C(=O)CCNc2ccc(C#N)cn2)CC1CN1CCN(C(=O)CCl)CC1
@@ -4772,7 +4772,7 @@ N
 x0830_0
 
 >  <ref_mols>  (41) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (41) 
 C=CC(=O)N1C[C@@H]2CN(Cc3cccc4c(CCNC(=O)c5ccc[nH]5)c[nH]c34)C[C@@H]2C1
@@ -4883,7 +4883,7 @@ N
 x0830_0
 
 >  <ref_mols>  (42) 
-x0104,x0195,x0305,x0830
+x0104_0,x0195_0,x0305_0,x0830_0
 
 >  <original SMILES>  (42) 
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc12
@@ -4994,7 +4994,7 @@ N
 x0830_0
 
 >  <ref_mols>  (43) 
-x0072,x0104,x0397,x0692,x1308,x1336
+x0072_0,x0104_0,x0397_0,x0692_0,x1308_0,x1336_0
 
 >  <original SMILES>  (43) 
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc12
@@ -5103,7 +5103,7 @@ N
 x0830_0
 
 >  <ref_mols>  (44) 
-x0770,x0967
+x0770_0,x0967_0
 
 >  <original SMILES>  (44) 
 CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NCN1CCN(C(=O)CCl)CC1
@@ -5212,7 +5212,7 @@ N
 x0830_0
 
 >  <ref_mols>  (45) 
-x0967,x1382
+x0967_0,x1382_0
 
 >  <original SMILES>  (45) 
 CC(=O)NC(C#CC(NC(=O)CCl)c1cccc(Cl)c1)c1ccc(O)cc1
@@ -5326,7 +5326,7 @@ N
 x0830_0
 
 >  <ref_mols>  (46) 
-x0104,x0195,x0305,x0830
+x0104_0,x0195_0,x0305_0,x0830_0
 
 >  <original SMILES>  (46) 
 N#Cc1cnc(CNC(=O)N2CCOCC2)c(CN2CCN(C(=O)CCl)CC2)c1
@@ -5445,7 +5445,7 @@ N
 x0830_0
 
 >  <ref_mols>  (47) 
-x0692,x1382,x1386,x1392
+x0692_0,x1382_0,x1386_0,x1392_0
 
 >  <original SMILES>  (47) 
 CC(=O)NCCCc1cn(C)c2cc(C3CN(C(=O)CCl)Cc4ccccc43)ccc12
@@ -5571,7 +5571,7 @@ N
 x0830_0
 
 >  <ref_mols>  (48) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (48) 
 O=C(CNCc1c[nH]c2ccc(F)cc12)NCc1ccc(CN2CCN(C(=O)CCl)CC2)cc1
@@ -5684,7 +5684,7 @@ N
 x0830_0
 
 >  <ref_mols>  (49) 
-x0107,x0831,x1382
+x0107_0,x0831_0,x1382_0
 
 >  <original SMILES>  (49) 
 O=C(CCl)N1CCN(Cc2cc(O)ccc2O)CC(c2cc(O)ccc2O)C1
@@ -5801,7 +5801,7 @@ N
 x0830_0
 
 >  <ref_mols>  (50) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (50) 
 C=CC(=O)N1CCN(Cc2cccc3c(CCNC(=O)c4ccc[nH]4)c[nH]c23)CC1
@@ -5911,7 +5911,7 @@ N
 x0830_0
 
 >  <ref_mols>  (51) 
-x0692,x1382,x1386,x1392
+x0692_0,x1382_0,x1386_0,x1392_0
 
 >  <original SMILES>  (51) 
 O=C(CCl)N1CCN(Cc2cccc(CNC(=O)N3CCOCC3)c2)CC1
@@ -6022,7 +6022,7 @@ N
 x0830_0
 
 >  <ref_mols>  (52) 
-x0104,x0195,x0305,x0830
+x0104_0,x0195_0,x0305_0,x0830_0
 
 >  <original SMILES>  (52) 
 CC(=O)NCCC1=CCc2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc21
@@ -6138,7 +6138,7 @@ N
 x0830_0
 
 >  <ref_mols>  (53) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (53) 
 C=CC(=O)N1CC(NCc2cccc3c(CCNC(=O)c4ccc[nH]4)c[nH]c23)C1
@@ -6248,7 +6248,7 @@ N
 x0830_0
 
 >  <ref_mols>  (54) 
-x0104,x0161,x0195,x0305,x0692,x0770,x0830,x1334
+x0104_0,x0161_0,x0195_0,x0305_0,x0692_0,x0770_0,x0830_0,x1334_0
 
 >  <original SMILES>  (54) 
 CC(=O)NCCc1c[nH]c2c(CC3CCN(C(=O)CCl)CC3)cc(F)cc12
@@ -6359,7 +6359,7 @@ N
 x0830_0
 
 >  <ref_mols>  (55) 
-x0104,x0708
+x0104_0,x0708_0
 
 >  <original SMILES>  (55) 
 CNC(=O)CCc1nn(C)c2c1CCN1CC(C(=O)NNC(=O)CCl)SC21
@@ -6469,7 +6469,7 @@ N
 x0830_0
 
 >  <ref_mols>  (56) 
-x0692
+x0692_0
 
 >  <original SMILES>  (56) 
 CC(=O)NCCC1=CNc2cc(CN3CCN(C(=O)CCl)CC3)ccc2C1
@@ -6590,7 +6590,7 @@ N
 x0830_0
 
 >  <ref_mols>  (57) 
-x0749
+x0749_0
 
 >  <original SMILES>  (57) 
 C#Cc1ncnc2c1nc(C1CCCN(C(=O)CCl)C1)n2CC(=O)CN1C=C(N)C=NC1
@@ -6694,7 +6694,7 @@ N
 x0830_0
 
 >  <ref_mols>  (58) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (58) 
 CNCCSC(=O)c1cccc(CN2CCN(C(=O)CCl)CC2)c1
@@ -6805,7 +6805,7 @@ N
 x0830_0
 
 >  <ref_mols>  (59) 
-x0387,x0692
+x0387_0,x0692_0
 
 >  <original SMILES>  (59) 
 Cc1nc(CN2CCN(C(=O)CCl)CC2)c(CCCc2ccsc2)c(=O)[nH]1
@@ -6924,7 +6924,7 @@ N
 x0830_0
 
 >  <ref_mols>  (60) 
-x0195,x0305,x0830,x1249,x1392
+x0195_0,x0305_0,x0830_0,x1249_0,x1392_0
 
 >  <original SMILES>  (60) 
 COc1cc([C@@H]2CN(C(=O)CCl)Cc3ccccc32)c2[nH]cc(CCNC(C)=O)c2c1
@@ -7039,7 +7039,7 @@ N
 x0830_0
 
 >  <ref_mols>  (61) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (61) 
 CCNc1ccc(NCc2cnc(C)c(CN3CCN(C(=O)CCl)CC3)c2)cn1
@@ -7156,7 +7156,7 @@ N
 x0830_0
 
 >  <ref_mols>  (62) 
-x0678,x0749
+x0678_0,x0749_0
 
 >  <original SMILES>  (62) 
 O=C(CCn1c(C2CCCN(C(=O)CCl)C2)nc2ccccc21)Nc1cccnc1
@@ -7264,7 +7264,7 @@ N
 x0830_0
 
 >  <ref_mols>  (63) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (63) 
 C=CC(=O)N1CCN(Cc2cccc3c(CCNC(C)=O)c[nH]c23)CC1
@@ -7371,7 +7371,7 @@ N
 x0830_0
 
 >  <ref_mols>  (64) 
-x0770
+x0770_0
 
 >  <original SMILES>  (64) 
 O=C(CCl)N1CCN(Cc2cccc(Cl)c2)C[C@@H]1Cc1ccccc1
@@ -7492,7 +7492,7 @@ N
 x0830_0
 
 >  <ref_mols>  (65) 
-x0195,x0305,x0830,x1249,x1392
+x0195_0,x0305_0,x0830_0,x1249_0,x1392_0
 
 >  <original SMILES>  (65) 
 COc1cc([C@@H]2CN(C(=O)CCl)Cc3ccccc32)c2ccc(CCNC(C)=O)cc2c1
@@ -7606,7 +7606,7 @@ N
 x0830_0
 
 >  <ref_mols>  (66) 
-x0759,x1478
+x0759_0,x1478_0
 
 >  <original SMILES>  (66) 
 C=CC(=O)N1CCO[C@@H](c2ccc(F)cc2C[C@H](C)Nc2ccc(C#N)cn2)C1
@@ -7717,7 +7717,7 @@ N
 x0830_0
 
 >  <ref_mols>  (67) 
-x0397,x0692,x1351
+x0397_0,x0692_0,x1351_0
 
 >  <original SMILES>  (67) 
 O=C(NC1CCN(C(=O)CCl)CC1NCc1ccccc1)c1ccccc1
@@ -7843,7 +7843,7 @@ N
 x0830_0
 
 >  <ref_mols>  (68) 
-x0692
+x0692_0
 
 >  <original SMILES>  (68) 
 O=C(CCl)N1CCN(C2(c3cc(C#Cc4ccc(F)cc4O)c4ccccn34)CC2)[C@H]2CC21
@@ -7956,7 +7956,7 @@ N
 x0830_0
 
 >  <ref_mols>  (69) 
-x0434,x0759,x0831,x1384,x1392
+x0434_0,x0759_0,x0831_0,x1384_0,x1392_0
 
 >  <original SMILES>  (69) 
 O=C(CCl)N1Cc2ccccc2C(c2ccccc2)C1C#Cc1cccnc1
@@ -8060,7 +8060,7 @@ N
 x0830_0
 
 >  <ref_mols>  (70) 
-x1386
+x1386_0
 
 >  <original SMILES>  (70) 
 COc1cccc(-n2cc(CN3CCN(C(=O)CCl)CC3)nn2)c1
@@ -8165,7 +8165,7 @@ N
 x0830_0
 
 >  <ref_mols>  (71) 
-x1386
+x1386_0
 
 >  <original SMILES>  (71) 
 COc1ccc(-n2cc(CN3CCN(C(=O)CCl)CC3)nn2)cc1
@@ -8311,7 +8311,7 @@ N
 x0830_0
 
 >  <ref_mols>  (72) 
-x0387
+x0387_0
 
 >  <original SMILES>  (72) 
 O=C(CCl)N1Cc2ccccc2C(c2ccccc2)C1NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
@@ -8431,7 +8431,7 @@ N
 x0830_0
 
 >  <ref_mols>  (73) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (73) 
 COC(=O)C(NS(=O)(=O)NS(N)(=O)=O)c1ccc(CN2CCN(C(=O)CCl)CC2)cc1C
@@ -8541,7 +8541,7 @@ N
 x0830_0
 
 >  <ref_mols>  (74) 
-x0104,x0161,x0195,x0305,x0692,x0770,x0830,x1334
+x0104_0,x0161_0,x0195_0,x0305_0,x0692_0,x0770_0,x0830_0,x1334_0
 
 >  <original SMILES>  (74) 
 CC(=O)NCCc1c[nH]c2c(NC3CCN(C(=O)CCl)CC3)cc(F)cc12
@@ -8660,7 +8660,7 @@ N
 x0830_0
 
 >  <ref_mols>  (75) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (75) 
 CC1OC(CN2CCN(C(=O)CCl)CC2)C(O)C1OCCCNc1ccc(C#N)cn1
@@ -8769,7 +8769,7 @@ Y
 x0830_0
 
 >  <ref_mols>  (76) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (76) 
 COC1CCCC(Oc2cccc(CN3CCN(C(=O)CCl)CC3)c2)C1
@@ -8907,7 +8907,7 @@ N
 x0830_0
 
 >  <ref_mols>  (77) 
-x0305
+x0305_0
 
 >  <original SMILES>  (77) 
 CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2C(C)N(C)C(=O)C2CCN(C(=O)CCl)CC2)c1
@@ -9018,7 +9018,7 @@ N
 x0830_0
 
 >  <ref_mols>  (78) 
-x0104,x0195,x0305,x0830
+x0104_0,x0195_0,x0305_0,x0830_0
 
 >  <original SMILES>  (78) 
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cc(Cl)cc12
@@ -9128,7 +9128,7 @@ N
 x0830_0
 
 >  <ref_mols>  (79) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (79) 
 CCNC(COc1cccc(CN2CCN(C(=O)CCl)CC2)c1)OCC#N
@@ -9242,7 +9242,7 @@ N
 x0830_0
 
 >  <ref_mols>  (80) 
-x0104,x0195,x0305,x0830
+x0104_0,x0195_0,x0305_0,x0830_0
 
 >  <original SMILES>  (80) 
 COc1cnc(CNC(=O)N2CCOCC2)c(CN2CCN(C(=O)CCl)CC2)c1
@@ -9351,7 +9351,7 @@ N
 x0830_0
 
 >  <ref_mols>  (81) 
-x0072,x1458
+x0072_0,x1458_0
 
 >  <original SMILES>  (81) 
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cccc12
@@ -9497,7 +9497,7 @@ N
 x0830_0
 
 >  <ref_mols>  (82) 
-x0387
+x0387_0
 
 >  <original SMILES>  (82) 
 O=C(CCl)N1Cc2ccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)cc2C(c2ccccc2)C1
@@ -9634,7 +9634,7 @@ N
 x0830_0
 
 >  <ref_mols>  (83) 
-x0305
+x0305_0
 
 >  <original SMILES>  (83) 
 CC(C)N(CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(=O)C1CCN(C(=O)CCl)CC1
@@ -9780,7 +9780,7 @@ N
 x0830_0
 
 >  <ref_mols>  (84) 
-x0387
+x0387_0
 
 >  <original SMILES>  (84) 
 O=C(CCl)N1Cc2cccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)c2C(c2ccccc2)C1
@@ -9901,7 +9901,7 @@ N
 x0830_0
 
 >  <ref_mols>  (85) 
-x0195,x0305,x0387,x0689,x0736,x1374
+x0195_0,x0305_0,x0387_0,x0689_0,x0736_0,x1374_0
 
 >  <original SMILES>  (85) 
 O=C(CCl)N1CCc2cccc(CS(=O)(=O)Nc3cc(CN4CCC(O)CC4)cs3)c2C1
@@ -10000,7 +10000,7 @@ N
 x0830_0
 
 >  <ref_mols>  (86) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (86) 
 CC(=O)NCCCC(=O)NCC(=O)NCN1CCN(C(=O)CCl)CC1
@@ -10119,7 +10119,7 @@ N
 x0830_0
 
 >  <ref_mols>  (87) 
-x0770,x0967
+x0770_0,x0967_0
 
 >  <original SMILES>  (87) 
 CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NC(CN1CCN(C(=O)CCl)CC1)c1ccccc1
@@ -10230,7 +10230,7 @@ N
 x0830_0
 
 >  <ref_mols>  (88) 
-x0387,x0692
+x0387_0,x0692_0
 
 >  <original SMILES>  (88) 
 O=C(CSCc1cccc(CN2CCN(C(=O)CCl)CC2)c1)CN1CCC(O)CC1
@@ -10352,7 +10352,7 @@ N
 x0830_0
 
 >  <ref_mols>  (89) 
-x0387,x0692
+x0387_0,x0692_0
 
 >  <original SMILES>  (89) 
 Cc1cc(CN2CCN(C(=O)CCl)CC2)ccc1C1OC(CO)C(OCN2CCC(O)CC2)C1O
@@ -10455,7 +10455,7 @@ N
 x0830_0
 
 >  <ref_mols>  (90) 
-x0967,x1382
+x0967_0,x1382_0
 
 >  <original SMILES>  (90) 
 CC(=O)NC(CCC(NC(=O)CCl)c1cccc(Cl)c1)c1ccc(O)cc1
@@ -10594,7 +10594,7 @@ N
 x0830_0
 
 >  <ref_mols>  (91) 
-x0426,x0434,x0770,x0946
+x0426_0,x0434_0,x0770_0,x0946_0
 
 >  <original SMILES>  (91) 
 NS(=O)(=O)c1ccc2cccc(CN3CCN(C(=O)CCl)C(c4cnccc4CCNC(=O)NC4CCCCC4)C3)c2c1
@@ -10702,7 +10702,7 @@ N
 x0830_0
 
 >  <ref_mols>  (92) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (92) 
 CNC(=O)C(NCCNC(C)=O)c1cccc(CN2CCN(C(=O)CCl)CC2)c1
@@ -10808,7 +10808,7 @@ N
 x0830_0
 
 >  <ref_mols>  (93) 
-x1382
+x1382_0
 
 >  <original SMILES>  (93) 
 C=CC(=O)NCc1ccc(C(=O)NCc2cc(C)cc3c(C)c(C)[nH]c23)cc1
@@ -10933,7 +10933,7 @@ N
 x0830_0
 
 >  <ref_mols>  (94) 
-x0749
+x0749_0
 
 >  <original SMILES>  (94) 
 C#Cc1ncnc2c1nc(C1CCCN(C(=O)CCl)C1)n2CC(=O)C(Cc1ccc(O)cc1)NC(C)=O
@@ -11038,7 +11038,7 @@ N
 x0830_0
 
 >  <ref_mols>  (95) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (95) 
 CC(=O)NCCc1c[nH]c2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc12
@@ -11143,7 +11143,7 @@ N
 x0830_0
 
 >  <ref_mols>  (96) 
-x0104,x0830
+x0104_0,x0830_0
 
 >  <original SMILES>  (96) 
 CC(=O)NCCC1C=Nc2c(CN3CCN(C(=O)CCl)CC3)cc(F)cc21
@@ -11246,7 +11246,7 @@ N
 x0830_0
 
 >  <ref_mols>  (97) 
-x0967,x1382
+x0967_0,x1382_0
 
 >  <original SMILES>  (97) 
 CC(=O)NC(/C=C/C(NC(=O)CCl)c1cccc(Cl)c1)c1ccc(O)cc1
@@ -11366,7 +11366,7 @@ N
 x0830_0
 
 >  <ref_mols>  (98) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (98) 
 O=C(CNCc1c[nH]c2ccc(F)cc12)NCc1ccc(CN2CCN(C(=O)CCl)CC2)cc1
@@ -11476,7 +11476,7 @@ N
 x0830_0
 
 >  <ref_mols>  (99) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (99) 
 CCNc1ccc(C2OC(O)C(NCN3CCN(C(=O)CCl)CC3)C(O)C2O)cn1
@@ -11584,7 +11584,7 @@ N
 x0830_0
 
 >  <ref_mols>  (100) 
-x0692,x1382,x1386,x1392
+x0692_0,x1382_0,x1386_0,x1392_0
 
 >  <original SMILES>  (100) 
 N#Cc1ccc(CNC(=O)N2CCOCC2)c(CN2CCN(C(=O)CCl)CC2)c1
@@ -11695,7 +11695,7 @@ N
 x0830_0
 
 >  <ref_mols>  (101) 
-x0195,x0305,x0830,x1249,x1392
+x0195_0,x0305_0,x0830_0,x1249_0,x1392_0
 
 >  <original SMILES>  (101) 
 CC(=O)NCCc1c[nH]c2c([C@@H]3CN(C(=O)CCl)Cc4ccccc43)cc(Cl)cc12
@@ -11805,7 +11805,7 @@ N
 x0830_0
 
 >  <ref_mols>  (102) 
-x0759,x1478
+x0759_0,x1478_0
 
 >  <original SMILES>  (102) 
 C=CC(=O)N1CCO[C@@H](c2ccc(F)c(F)c2C[C@H](C)Nc2ccc(C#N)cn2)C1
@@ -11913,7 +11913,7 @@ N
 x0830_0
 
 >  <ref_mols>  (103) 
-x0759,x1308,x1358,x1402
+x0759_0,x1308_0,x1358_0,x1402_0
 
 >  <original SMILES>  (103) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(Cl)cc2)[C@@H](CCc2ccccc2O)C1
@@ -12020,7 +12020,7 @@ N
 x0830_0
 
 >  <ref_mols>  (104) 
-x0387,x0692
+x0387_0,x0692_0
 
 >  <original SMILES>  (104) 
 Cc1nc(CN2CCN(C(=O)CCl)CC2)c(NCc2cccc(O)c2)c(=O)[nH]1
@@ -12133,7 +12133,7 @@ N
 x0830_0
 
 >  <ref_mols>  (105) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (105) 
 C=CC(=O)N1CCN(Cc2cccc3c(CCNC(=O)CCCN(C)C)c[nH]c23)CC1
@@ -12273,7 +12273,7 @@ N
 x0830_0
 
 >  <ref_mols>  (106) 
-x1392
+x1392_0
 
 >  <original SMILES>  (106) 
 C[C@H](NC(=O)[C@@H]1[C@H](c2cccc3c2CN(C(=O)CCl)[C@@H](c2cc(NC(N)=O)ncn2)[C@H]3c2ccccc2)CC1(F)F)C(N)=O
@@ -12374,7 +12374,7 @@ N
 x0830_0
 
 >  <ref_mols>  (107) 
-x1382
+x1382_0
 
 >  <original SMILES>  (107) 
 C=CC(=O)NCc1ccc(C(=O)N[C@H](CO)c2ccc(Br)c(F)c2)cc1
@@ -12488,7 +12488,7 @@ N
 x0830_0
 
 >  <ref_mols>  (108) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (108) 
 O=C(CCl)N1CCN(Cc2cccc(CCCNc3c[nH]c4ccc(F)cc34)c2)CC1
@@ -12599,7 +12599,7 @@ N
 x0830_0
 
 >  <ref_mols>  (109) 
-x0748,x0759,x0820,x0874,x1478
+x1382_0,x0759_0,x0820_0,x0874_0,x1478_0
 
 >  <original SMILES>  (109) 
 NC(=O)C1CCC(CC(NC(=O)CCl)c2cccc3ccccc23)C1c1ccsc1
@@ -12713,7 +12713,7 @@ N
 x0830_0
 
 >  <ref_mols>  (110) 
-x0692
+x0692_0
 
 >  <original SMILES>  (110) 
 Cc1ccc2c(C#Cc3ccc(F)cc3O)cc(CN3CCN(C(=O)CCl)CC3)n2c1
@@ -12826,7 +12826,7 @@ N
 x0830_0
 
 >  <ref_mols>  (111) 
-x0830
+x0830_0
 
 >  <original SMILES>  (111) 
 O=C(CCl)N1CCN(Cc2cc(Cl)cc3cccc(OCCN4CCOCC4)c23)CC1
@@ -12952,7 +12952,7 @@ N
 x0830_0
 
 >  <ref_mols>  (112) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (112) 
 Cc1ccc(OCCCCC2NCC(c3cc(C)cc(CN4CCN(C(=O)CCl)CC4)c3)CC2=O)cc1
@@ -13068,7 +13068,7 @@ N
 x0830_0
 
 >  <ref_mols>  (113) 
-x0770,x0967
+x0770_0,x0967_0
 
 >  <original SMILES>  (113) 
 CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NC(c1ccccc1)N1CCN(C(=O)CCl)CC1
@@ -13179,7 +13179,7 @@ N
 x0830_0
 
 >  <ref_mols>  (114) 
-x0387,x0692
+x0387_0,x0692_0
 
 >  <original SMILES>  (114) 
 Cc1cc(CN2CCN(C(=O)CCl)CC2)ccc1NCCNCN1CCC(O)CC1
@@ -13290,7 +13290,7 @@ N
 x0830_0
 
 >  <ref_mols>  (115) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (115) 
 CC1CC(CN2CCN(C(=O)CCl)CC2)CC(NCCNc2ccc(C#N)cn2)C1
@@ -13394,7 +13394,7 @@ N
 x0830_0
 
 >  <ref_mols>  (116) 
-x0692,x1382,x1386,x1392
+x0692_0,x1382_0,x1386_0,x1392_0
 
 >  <original SMILES>  (116) 
 CC(=O)NCCc1cn(C)c2cc(CN3CCN(C(=O)CCl)CC3)ccc12
@@ -13504,7 +13504,7 @@ N
 x0830_0
 
 >  <ref_mols>  (117) 
-x0759,x1478
+x0759_0,x1478_0
 
 >  <original SMILES>  (117) 
 C=CC(=O)N1CCO[C@H](c2cc(CO[C@H](C)Nc3cccnc3Cl)c(F)cc2F)C1
@@ -13621,7 +13621,7 @@ N
 x0830_0
 
 >  <ref_mols>  (118) 
-x0692
+x0692_0
 
 >  <original SMILES>  (118) 
 O=C(CCl)N1CCN(C2(c3cc(C#Cc4ccc(F)cc4O)c4ccccn34)CC2)CC1
@@ -13758,7 +13758,7 @@ N
 x0830_0
 
 >  <ref_mols>  (119) 
-x1392
+x1392_0
 
 >  <original SMILES>  (119) 
 Cc1cc(-c2cccc([C@@H]3c4cccc(C5CC(F)(F)C5)c4CN(C(=O)CCl)[C@@H]3c3cc(NC(N)=O)ncn3)c2)co1
@@ -13878,7 +13878,7 @@ N
 x0830_0
 
 >  <ref_mols>  (120) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (120) 
 CC(CO)(COc1c[nH]c2ccc(F)cc12)Cc1cccc(CN2CCN(C(=O)CCl)CC2)c1
@@ -14000,7 +14000,7 @@ N
 x0830_0
 
 >  <ref_mols>  (121) 
-x0104,x0305,x0830,x1249,x1385
+x0104_0,x0305_0,x0830_0,x1249_0,x1385_0
 
 >  <original SMILES>  (121) 
 N#Cc1ccc(CNC(=O)N2CCOCC2)c(C(c2ccc(Br)s2)N2CCN(C(=O)CCl)CC2)c1
@@ -14111,7 +14111,7 @@ N
 x0830_0
 
 >  <ref_mols>  (122) 
-x1392
+x1392_0
 
 >  <original SMILES>  (122) 
 O=C(CCl)N1Cc2c(OCCN3CCOCC3)cccc2[C@H](c2cccc(Cl)c2)C1
@@ -14218,7 +14218,7 @@ N
 x0830_0
 
 >  <ref_mols>  (123) 
-x0770,x1249
+x0770_0,x1249_0
 
 >  <original SMILES>  (123) 
 O=C(NCc1ccc(Cl)cc1CN1CCN(C(=O)CCl)CC1)[C@@H]1CCCOC1
@@ -14328,7 +14328,7 @@ N
 x0830_0
 
 >  <ref_mols>  (124) 
-x0759,x1478
+x0759_0,x1478_0
 
 >  <original SMILES>  (124) 
 C=CC(=O)N1CCO[C@H](c2cc(F)c(F)c(CO[C@H](C)Nc3cccnc3Cl)c2)C1
@@ -14434,7 +14434,7 @@ N
 x0830_0
 
 >  <ref_mols>  (125) 
-x0072,x0104,x0107,x0678,x0830,x0874,x1093
+x0072_0,x0104_0,x0107_0,x0678_0,x0830_0,x0874_0,x1093_0
 
 >  <original SMILES>  (125) 
 O=C(CCl)N1CCN(Cc2cccc3ccccc23)CC1c1cccnc1
@@ -14542,7 +14542,7 @@ N
 x0830_0
 
 >  <ref_mols>  (126) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (126) 
 CNC(=O)C([N+]CCNC(C)=O)c1cccc(C[N+]2CCN(C(=O)CCl)CC2)c1
@@ -14649,7 +14649,7 @@ N
 x0830_0
 
 >  <ref_mols>  (127) 
-x0072
+x0072_0
 
 >  <original SMILES>  (127) 
 C=CC(=O)NCCc1c[nH]c2c(NCc3ccc4[nH]cnc4c3)cc(F)cc12
@@ -14761,7 +14761,7 @@ N
 x0830_0
 
 >  <ref_mols>  (128) 
-x0104,x0305,x0770,x1380,x1385
+x0104_0,x0305_0,x0770_0,x1380_0,x1385_0
 
 >  <original SMILES>  (128) 
 N#Cc1cccc(C(CCc2ccc(C(F)(F)F)cc2)N2CCN(C(=O)CCl)CC2)c1
@@ -14872,7 +14872,7 @@ N
 x0830_0
 
 >  <ref_mols>  (129) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (129) 
 C=CC(=O)N1CCN(Cc2cccc3c(CCNC(=O)[C@@H]4CCCN4)c[nH]c23)CC1
@@ -14985,7 +14985,7 @@ N
 x0830_0
 
 >  <ref_mols>  (130) 
-x0107,x0749
+x0107_0,x0749_0
 
 >  <original SMILES>  (130) 
 C=C(CCn1c(C2CCCN(C(=O)CCl)C2)nc2ccccc21)Nc1cnccc1C
@@ -15087,7 +15087,7 @@ N
 x0830_0
 
 >  <ref_mols>  (131) 
-x1334,x1336
+x1334_0,x1336_0
 
 >  <original SMILES>  (131) 
 N#Cc1cccc(CCc2ccnc(C3CCCN(C(=O)CCl)C3)c2)c1
@@ -15197,7 +15197,7 @@ N
 x0830_0
 
 >  <ref_mols>  (132) 
-x0759,x1478
+x0759_0,x1478_0
 
 >  <original SMILES>  (132) 
 C=CC(=O)N1CCO[C@@H](c2cc(F)c(F)cc2C[C@H](C)Nc2ccc(C#N)cn2)C1
@@ -15303,7 +15303,7 @@ N
 x0830_0
 
 >  <ref_mols>  (133) 
-x0692
+x0692_0
 
 >  <original SMILES>  (133) 
 N[C@H]1C[C@@H]1c1cnc2c(CN3CCN(C(=O)CCl)C4(CC4)C3)cccc2c1
@@ -15418,7 +15418,7 @@ N
 x0830_0
 
 >  <ref_mols>  (134) 
-x0830
+x0830_0
 
 >  <original SMILES>  (134) 
 C=CC(=O)N1CCN(Cc2cc(Cl)cc3cccc(OCCN4CCN(C)CC4)c23)CC1
@@ -15531,7 +15531,7 @@ N
 x0830_0
 
 >  <ref_mols>  (135) 
-x0759
+x0759_0
 
 >  <original SMILES>  (135) 
 CN1C(=O)[C@H](Cc2cc(O)cc(F)c2)c2cc(F)cc([C@@H]3CN(C(=O)CCl)CCO3)c21
@@ -15638,7 +15638,7 @@ N
 x0830_0
 
 >  <ref_mols>  (136) 
-x0434,x0759,x0831,x1384,x1392
+x0434_0,x0759_0,x0831_0,x1384_0,x1392_0
 
 >  <original SMILES>  (136) 
 Cc1ccccc1C1c2ccccc2CN(C(=O)CCl)C1Cc1cccnc1
@@ -15764,7 +15764,7 @@ N
 x0830_0
 
 >  <ref_mols>  (137) 
-x0434,x0540
+x0434_0,x0540_0
 
 >  <original SMILES>  (137) 
 C=CC(=O)N1CC(CCN(C(=O)Nc2c(C)ncc(C)c2CCN2CCOCC2)c2cc(C)ccn2)C1
@@ -15870,7 +15870,7 @@ N
 x0830_0
 
 >  <ref_mols>  (138) 
-x0759,x1308,x1358,x1402
+x0759_0,x1308_0,x1358_0,x1402_0
 
 >  <original SMILES>  (138) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(Cl)s2)[C@@H](CCc2ccccc2O)C1
@@ -15978,7 +15978,7 @@ N
 x0830_0
 
 >  <ref_mols>  (139) 
-x0072,x0104,x0107,x0678,x0830,x0874,x1093
+x0072_0,x0104_0,x0107_0,x0678_0,x0830_0,x0874_0,x1093_0
 
 >  <original SMILES>  (139) 
 O=C(CCl)N1CCN(Cc2cccc3ccccc23)CC1Cc1cccnc1
@@ -16085,7 +16085,7 @@ N
 x0830_0
 
 >  <ref_mols>  (140) 
-x0434,x0759,x0831,x1384,x1392
+x0434_0,x0759_0,x0831_0,x1384_0,x1392_0
 
 >  <original SMILES>  (140) 
 O=C(CCl)N1Cc2ccccc2C(c2cccc(Cl)c2)C1Cc1cccnc1
@@ -16187,7 +16187,7 @@ N
 x0830_0
 
 >  <ref_mols>  (141) 
-x0734,x1374,x1385,x1392,x1458
+x0734_0,x1374_0,x1385_0,x1392_0,x1458_0
 
 >  <original SMILES>  (141) 
 CC(C)N(C)C(=O)c1ccc2c(c1)CN(C(=O)CCl)CC2c1c[nH]cn1
@@ -16298,7 +16298,7 @@ N
 x0830_0
 
 >  <ref_mols>  (142) 
-x0195,x0305,x0830,x1249,x1392
+x0195_0,x0305_0,x0830_0,x1249_0,x1392_0
 
 >  <original SMILES>  (142) 
 CC(=O)NCCc1c[nH]c2c([C@@H]3CN(C(=O)CCl)Cc4ccccc43)cc(F)cc12
@@ -16398,7 +16398,7 @@ N
 x0830_0
 
 >  <ref_mols>  (143) 
-x0072,x0104,x0991
+x0072_0,x0104_0,x0991_0
 
 >  <original SMILES>  (143) 
 C=C(C)CCCc1c[nH]c2c1NC(=O)C1CC(CCCC(=N)N)SC21
@@ -16531,7 +16531,7 @@ N
 x0830_0
 
 >  <ref_mols>  (144) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (144) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3c(-c4ccc(S(N)(=O)=O)cc4)cccc3s2)CN1C(=O)CCl
@@ -16649,7 +16649,7 @@ N
 x0830_0
 
 >  <ref_mols>  (145) 
-x0692
+x0692_0
 
 >  <original SMILES>  (145) 
 C[C@@H]1CN(Cc2cccc3cc([C@H]4C[C@@H]4N)c(N4CCN(C)CC4)nc23)CCN1C(=O)CCl
@@ -16748,7 +16748,7 @@ N
 x0830_0
 
 >  <ref_mols>  (146) 
-x0770,x1392
+x0770_0,x1392_0
 
 >  <original SMILES>  (146) 
 Nc1cc2c(cn1)N(Cc1cc(O)ccc1O)CCN2C(=O)CCl
@@ -16859,7 +16859,7 @@ N
 x0830_0
 
 >  <ref_mols>  (147) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (147) 
 CC1CC(CNCNc2ccc(C#N)cn2)CC(CN2CCN(C(=O)CCl)CC2)C1
@@ -16979,7 +16979,7 @@ N
 x0830_0
 
 >  <ref_mols>  (148) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (148) 
 CC(CO)(COc1c[nH]c2ccc(F)cc12)Cc1cccc(CN2CCN(C(=O)CCl)CC2)c1
@@ -17090,7 +17090,7 @@ N
 x0830_0
 
 >  <ref_mols>  (149) 
-x0395,x0434
+x0395_0,x0434_0
 
 >  <original SMILES>  (149) 
 C=CC(=O)N1Cc2c(OCCN3CCOCC3)cccc2[C@H](c2cccc(Cl)c2)C1
@@ -17183,7 +17183,7 @@ N
 x0830_0
 
 >  <ref_mols>  (150) 
-x0692
+x0692_0
 
 >  <original SMILES>  (150) 
 Cc1cccc(CN2CCN(C(=O)CCl)C[C@H]2CC(N)=O)c1
@@ -17293,7 +17293,7 @@ N
 x0830_0
 
 >  <ref_mols>  (151) 
-x1382
+x1382_0
 
 >  <original SMILES>  (151) 
 C=CC(=O)Nc1cc(C(=O)NC[C@H](Cc2ccccc2)c2ccccn2)ccc1O
@@ -17407,7 +17407,7 @@ N
 x0830_0
 
 >  <ref_mols>  (152) 
-x0387,x0692
+x0387_0,x0692_0
 
 >  <original SMILES>  (152) 
 O=C(Nc1cccc(CN2CCN(C(=O)CCl)CC2)c1)c1cnc(Cc2ccsc2)s1
@@ -17519,7 +17519,7 @@ N
 x0830_0
 
 >  <ref_mols>  (153) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (153) 
 CCNc1ccc(-c2ncn3c(CN4CCN(C(=O)CCl)CC4)c(C)cnc23)cn1
@@ -17621,7 +17621,7 @@ N
 x0830_0
 
 >  <ref_mols>  (154) 
-x0104,x0305,x0770,x1380,x1385
+x0104_0,x0305_0,x0770_0,x1380_0,x1385_0
 
 >  <original SMILES>  (154) 
 O=C(CCl)N1CCN(C(CCc2ccccc2)c2cccc(Cl)c2)CC1
@@ -17761,7 +17761,7 @@ N
 x0830_0
 
 >  <ref_mols>  (155) 
-x1392
+x1392_0
 
 >  <original SMILES>  (155) 
 C[C@H](NC(=O)[C@@H]1[C@H](c2cccc3c2CN(C(=O)CCl)[C@@H](c2cc(NC(N)=O)ncn2)[C@H]3c2ccccc2)CC1(F)F)C(N)=O
@@ -17866,7 +17866,7 @@ N
 x0830_0
 
 >  <ref_mols>  (156) 
-x0305,x0434
+x0305_0,x0434_0
 
 >  <original SMILES>  (156) 
 C=CC(=O)NC(=O)CNc1cc(CC)cc(Cc2nc(NCC)ccc2F)c1
@@ -17984,7 +17984,7 @@ N
 x0830_0
 
 >  <ref_mols>  (157) 
-x0072
+x0072_0
 
 >  <original SMILES>  (157) 
 O=C(CCl)N1CC2C(=CC=C2C2CN(C(=O)CCl)Cc3ccccc32)C(c2ccccc2)C1
@@ -18087,7 +18087,7 @@ N
 x0830_0
 
 >  <ref_mols>  (158) 
-x0305,x0434
+x0305_0,x0434_0
 
 >  <original SMILES>  (158) 
 C=CC(=O)NC(=O)CNc1cc(F)cc(Cc2nc(NCC)ccc2F)c1
@@ -18185,7 +18185,7 @@ N
 x0830_0
 
 >  <ref_mols>  (159) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (159) 
 CNCCSC(=O)c1cccc(CN2CCN(C(=O)CCl)CC2)c1
@@ -18293,7 +18293,7 @@ N
 x0830_0
 
 >  <ref_mols>  (160) 
-x0759,x1478
+x0759_0,x1478_0
 
 >  <original SMILES>  (160) 
 C=CC(=O)N1CCO[C@H](c2ccc(F)c(CO[C@H](C)Nc3cccnc3Cl)c2)C1
@@ -18396,7 +18396,7 @@ N
 x0830_0
 
 >  <ref_mols>  (161) 
-x0305,x0434
+x0305_0,x0434_0
 
 >  <original SMILES>  (161) 
 C=CC(=O)NC(=O)CNc1cc(C)cc(Cc2nc(NCC)ccc2F)c1
@@ -18505,7 +18505,7 @@ N
 x0830_0
 
 >  <ref_mols>  (162) 
-x1392
+x1392_0
 
 >  <original SMILES>  (162) 
 O=C(CCl)N1Cc2c(OCCN3CCOCC3)cccc2[C@H](c2cocc2Cl)C1
@@ -18602,7 +18602,7 @@ N
 x0830_0
 
 >  <ref_mols>  (163) 
-x0770
+x0770_0
 
 >  <original SMILES>  (163) 
 O=C(CCl)N1CCN(Cc2cccc(Cl)c2)C(c2cccs2)C1
@@ -18704,7 +18704,7 @@ N
 x0830_0
 
 >  <ref_mols>  (164) 
-x0072,x0305,x1380
+x0072_0,x0305_0,x1380_0
 
 >  <original SMILES>  (164) 
 O=C(CCl)N1CC[C@H](C(=O)N2CCCCC2)[C@@H](CCc2ccccc2)C1
@@ -18798,7 +18798,7 @@ N
 x0830_0
 
 >  <ref_mols>  (165) 
-x0734,x1374,x1385,x1392,x1458
+x0734_0,x1374_0,x1385_0,x1392_0,x1458_0
 
 >  <original SMILES>  (165) 
 O=C(CCl)N1CCN(Cc2ccc(Br)s2)C(c2cnc[nH]2)C1
@@ -18901,7 +18901,7 @@ N
 x0830_0
 
 >  <ref_mols>  (166) 
-x0305,x0434
+x0305_0,x0434_0
 
 >  <original SMILES>  (166) 
 C=CC(=O)NC(=O)COc1ccc(Cl)c(Cc2nc(NCC)ccc2F)c1
@@ -19034,7 +19034,7 @@ N
 x0830_0
 
 >  <ref_mols>  (167) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (167) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3c(-c4cccc(S(N)(=O)=O)c4)cccc3s2)CN1C(=O)CCl
@@ -19148,7 +19148,7 @@ N
 x0830_0
 
 >  <ref_mols>  (168) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (168) 
 N#Cc1ccc(NCCOc2nc(NCN3CCN(C(=O)CCl)CC3)ccc2C#N)nc1
@@ -19258,7 +19258,7 @@ N
 x0830_0
 
 >  <ref_mols>  (169) 
-x0104,x0305,x0770,x1380,x1385
+x0104_0,x0305_0,x0770_0,x1380_0,x1385_0
 
 >  <original SMILES>  (169) 
 O=C(CCl)N1CCN(C(CCc2ccc(C(F)(F)F)cc2)c2cccc(Cl)c2)CC1
@@ -19366,7 +19366,7 @@ N
 x0830_0
 
 >  <ref_mols>  (170) 
-x0770,x1249
+x0770_0,x1249_0
 
 >  <original SMILES>  (170) 
 O=C1CN(C(=O)NCc2ccc(Cl)cc2CN2CCN(C(=O)CCl)CC2)CCN1
@@ -19482,7 +19482,7 @@ N
 x0830_0
 
 >  <ref_mols>  (171) 
-x0195,x1385
+x0195_0,x1385_0
 
 >  <original SMILES>  (171) 
 NS(=O)(=O)c1ccc2c(c1)N[C@@H](C[C@H](c1ccc(Br)s1)N1CCN(C(=O)CCl)CC1)CC2
@@ -19588,7 +19588,7 @@ N
 x0830_0
 
 >  <ref_mols>  (172) 
-x0072,x0678
+x0072_0,x0678_0
 
 >  <original SMILES>  (172) 
 O=C(Nc1cccnc1)C(C1CCCCC1)S(=O)(=O)NCCc1ccccc1
@@ -19688,7 +19688,7 @@ N
 x0830_0
 
 >  <ref_mols>  (173) 
-x0195,x0305,x0692
+x0195_0,x0305_0,x0692_0
 
 >  <original SMILES>  (173) 
 NS(=O)(=O)Cc1nc2cccc(CN3CCN(C(=O)CCl)CC3)c2[nH]1
@@ -19801,7 +19801,7 @@ N
 x0830_0
 
 >  <ref_mols>  (174) 
-x0072,x0967
+x0072_0,x0967_0
 
 >  <original SMILES>  (174) 
 O=C(CS(=O)(=O)NCCc1ccccc1)NC(Cc1ccc(O)cc1)C(=O)NCC#CBr
@@ -19901,7 +19901,7 @@ N
 x0830_0
 
 >  <ref_mols>  (175) 
-x0749,x0946
+x0749_0,x0946_0
 
 >  <original SMILES>  (175) 
 NS(=O)(=O)CCc1cccc2sc(C3CCCN(C(=O)CCl)C3)nc12
@@ -20014,7 +20014,7 @@ N
 x0830_0
 
 >  <ref_mols>  (176) 
-x0426,x0434,x0770,x0946
+x0426_0,x0434_0,x0770_0,x0946_0
 
 >  <original SMILES>  (176) 
 NS(=O)(=O)c1ccc2cccc(CN3CCN(C(=O)CCl)C(c4cccnc4)C3)c2c1
@@ -20120,7 +20120,7 @@ N
 x0830_0
 
 >  <ref_mols>  (177) 
-x0072,x0678
+x0072_0,x0678_0
 
 >  <original SMILES>  (177) 
 O=C(CC1(S(=O)(=O)NCCc2ccccc2)CCCCC1)Nc1cccnc1
@@ -20226,7 +20226,7 @@ N
 x0830_0
 
 >  <ref_mols>  (178) 
-x0692,x1382,x1386,x1392
+x0692_0,x1382_0,x1386_0,x1392_0
 
 >  <original SMILES>  (178) 
 CN(C)C(=O)c1ccc(CNS(C)(=O)=O)c(CN2CCN(C(=O)CCl)CC2)c1
@@ -20332,7 +20332,7 @@ N
 x0830_0
 
 >  <ref_mols>  (179) 
-x0195,x0434,x0770,x1374
+x0195_0,x0434_0,x0770_0,x1374_0
 
 >  <original SMILES>  (179) 
 O=C(Cn1cc(CN(C(=O)CCl)C2CCS(=O)(=O)C2)nn1)Nc1cccnc1
@@ -20467,7 +20467,7 @@ N
 x0830_0
 
 >  <ref_mols>  (180) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (180) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(-c4ccc(S(N)(=O)=O)c(O)c4)ccc3s2)CN1C(=O)CCl
@@ -20602,7 +20602,7 @@ N
 x0830_0
 
 >  <ref_mols>  (181) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (181) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(Cc4cccc(S(N)(=O)=O)c4)ccc3s2)CN1C(=O)CCl
@@ -20731,7 +20731,7 @@ N
 x0830_0
 
 >  <ref_mols>  (182) 
-x1249,x1308
+x1249_0,x1308_0
 
 >  <original SMILES>  (182) 
 N#Cc1ccc(CNC(=O)N2CCO[C@H](Cc3cc(S(=O)(=O)N4CCN(C(=O)CCl)CC4)ccc3Cl)C2)cc1
@@ -20866,7 +20866,7 @@ N
 x0830_0
 
 >  <ref_mols>  (183) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (183) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(Cc4ccc(S(N)(=O)=O)cc4)ccc3s2)CN1C(=O)CCl
@@ -20972,7 +20972,7 @@ N
 x0830_0
 
 >  <ref_mols>  (184) 
-x0072,x0104,x0397,x0692,x1308,x1336
+x0072_0,x0104_0,x0397_0,x0692_0,x1308_0,x1336_0
 
 >  <original SMILES>  (184) 
 Cc1ccc(NCc2ccccc2)c(S(=O)(=O)N2CCN(C(=O)CCl)CC2)c1
@@ -21088,7 +21088,7 @@ N
 x0830_0
 
 >  <ref_mols>  (185) 
-x0305,x0692,x0755
+x0305_0,x0692_0,x0755_0
 
 >  <original SMILES>  (185) 
 C=CC(=O)N1CCN(S(=O)(=O)c2c(F)cccc2OCCCNc2ccc(C#N)cn2)CC1
@@ -21198,7 +21198,7 @@ N
 x0830_0
 
 >  <ref_mols>  (186) 
-x1384
+x1384_0
 
 >  <original SMILES>  (186) 
 COC(=O)c1cccc(NS(=O)(=O)CC(=O)Nc2cccc(N3CCCC3=O)c2)c1
@@ -21338,7 +21338,7 @@ N
 x0830_0
 
 >  <ref_mols>  (187) 
-x0387
+x0387_0
 
 >  <original SMILES>  (187) 
 O=C(CCl)N1Cc2ccccc2C(NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)(c2ccccc2)C1
@@ -21460,7 +21460,7 @@ N
 x0830_0
 
 >  <ref_mols>  (188) 
-x0195,x0770,x1385
+x0195_0,x0770_0,x1385_0
 
 >  <original SMILES>  (188) 
 NS(=O)(=O)c1cc2c(cc1O)CC(I)C(CCC(c1ccc(Br)s1)N1CCN(C(=O)CCl)CC1)N2
@@ -21562,7 +21562,7 @@ N
 x0830_0
 
 >  <ref_mols>  (189) 
-x0195,x0434,x0770,x1374
+x0195_0,x0434_0,x0770_0,x1374_0
 
 >  <original SMILES>  (189) 
 O=C(Cn1cc(CN(C(=O)CCl)C2CCS(=O)(=O)C2)nn1)Nc1cccnc1
@@ -21695,7 +21695,7 @@ N
 x0830_0
 
 >  <ref_mols>  (190) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (190) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(-c4cccc(S(N)(=O)=O)c4)ccc3s2)CN1C(=O)CCl
@@ -21852,7 +21852,7 @@ N
 x0830_0
 
 >  <ref_mols>  (191) 
-x1402
+x1402_0
 
 >  <original SMILES>  (191) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(Cc6ccc(Cl)s6)c(Cc6ccsc6)cc45)CC3)s2)CC1
@@ -21958,7 +21958,7 @@ N
 x0830_0
 
 >  <ref_mols>  (192) 
-x0195,x0434,x0770,x1374
+x0195_0,x0434_0,x0770_0,x1374_0
 
 >  <original SMILES>  (192) 
 O=C(CCl)N(Cc1cnnn1Cc1ccc(Cl)cc1)C1CCS(=O)(=O)C1
@@ -22060,7 +22060,7 @@ N
 x0830_0
 
 >  <ref_mols>  (193) 
-x0195,x0434,x0770,x1374
+x0195_0,x0434_0,x0770_0,x1374_0
 
 >  <original SMILES>  (193) 
 O=C(CCl)N(Cc1cnnn1Cc1ccc(Cl)cc1)C1CCS(=O)(=O)C1
@@ -22193,7 +22193,7 @@ N
 x0830_0
 
 >  <ref_mols>  (194) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (194) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(-c4ccc(S(N)(=O)=O)cc4)ccc3s2)CN1C(=O)CCl
@@ -22307,7 +22307,7 @@ N
 x0830_0
 
 >  <ref_mols>  (195) 
-x1086,x1093
+x1086_0,x1093_0
 
 >  <original SMILES>  (195) 
 C=CS(=O)(=O)N1CCN(c2ccc(C3NC(=O)c4ccccc43)cc2S(N)(=O)=O)CC1
@@ -22442,7 +22442,7 @@ N
 x0830_0
 
 >  <ref_mols>  (196) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (196) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3c(-c4ccc(O)c(S(N)(=O)=O)c4)cccc3s2)CN1C(=O)CCl
@@ -22554,7 +22554,7 @@ N
 x0830_0
 
 >  <ref_mols>  (197) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (197) 
 Cc1cccc(CN2CCN(C(=O)CCl)CC2)c1CC(NC(=O)CS(N)(=O)=O)C(C)O
@@ -22711,7 +22711,7 @@ N
 x0830_0
 
 >  <ref_mols>  (198) 
-x1402
+x1402_0
 
 >  <original SMILES>  (198) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(Cc6ccc(Cl)s6)c(Cc6ccsc6)cc45)CC3)s2)CC1
@@ -22870,7 +22870,7 @@ N
 x0830_0
 
 >  <ref_mols>  (199) 
-x1402
+x1402_0
 
 >  <original SMILES>  (199) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CCc6ccc(Cl)s6)c(Cc6cccs6)cc45)CC3)s2)CC1
@@ -23002,7 +23002,7 @@ N
 x0830_0
 
 >  <ref_mols>  (200) 
-x1249,x1308
+x1249_0,x1308_0
 
 >  <original SMILES>  (200) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(Cl)c(C[C@@H]3CN(C(=O)NCc4ccc([N+](=O)[O-])cc4)CCO3)c2)CC1
@@ -23134,7 +23134,7 @@ N
 x0830_0
 
 >  <ref_mols>  (201) 
-x0305
+x0305_0
 
 >  <original SMILES>  (201) 
 CC(C)N(C)/C(=C/NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C1CCN(C(=O)CCl)CC1
@@ -23248,7 +23248,7 @@ N
 x0830_0
 
 >  <ref_mols>  (202) 
-x1086,x1093
+x1086_0,x1093_0
 
 >  <original SMILES>  (202) 
 C=CS(=O)(=O)N1CCN(c2ccc(C3NC(=O)c4ccccc43)cc2S(N)(=O)=O)CC1
@@ -23369,7 +23369,7 @@ N
 x0830_0
 
 >  <ref_mols>  (203) 
-x0305,x0692,x0755
+x0305_0,x0692_0,x0755_0
 
 >  <original SMILES>  (203) 
 C=CC(=O)N1C[C@H]2CN(S(=O)(=O)c3c(F)cccc3OCCCNc3ccc(C#N)cn3)C[C@H]2C1
@@ -23500,7 +23500,7 @@ N
 x0830_0
 
 >  <ref_mols>  (204) 
-x0305
+x0305_0
 
 >  <original SMILES>  (204) 
 CC(Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(C)N(C)C(=O)C1CCN(C(=O)CCl)CC1
@@ -23632,7 +23632,7 @@ N
 x0830_0
 
 >  <ref_mols>  (205) 
-x0305
+x0305_0
 
 >  <original SMILES>  (205) 
 CNCc1cc(-c2ccccc2CN(C(=O)C2CCN(C(=O)CCl)CC2)C(C)C)n(S(=O)(=O)c2cccnc2)c1
@@ -23738,7 +23738,7 @@ N
 x0830_0
 
 >  <ref_mols>  (206) 
-x0749
+x0749_0
 
 >  <original SMILES>  (206) 
 NS(=O)(=O)c1ccc2c(c1)N(CCCCC1CCCN(C(=O)CCl)C1)CCC2
@@ -23873,7 +23873,7 @@ N
 x0830_0
 
 >  <ref_mols>  (207) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (207) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3cc(-c4ccc(O)c(S(N)(=O)=O)c4)ccc3s2)CN1C(=O)CCl
@@ -24012,7 +24012,7 @@ N
 x0830_0
 
 >  <ref_mols>  (208) 
-x0387
+x0387_0
 
 >  <original SMILES>  (208) 
 O=C(CCl)N1Cc2ccccc2C(c2ccccc2NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)C1
@@ -24152,7 +24152,7 @@ N
 x0830_0
 
 >  <ref_mols>  (209) 
-x0387
+x0387_0
 
 >  <original SMILES>  (209) 
 O=C(CCl)N1Cc2c(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)cccc2C(c2ccccc2)C1
@@ -24265,7 +24265,7 @@ N
 x0830_0
 
 >  <ref_mols>  (210) 
-x0072,x0967
+x0072_0,x0967_0
 
 >  <original SMILES>  (210) 
 CC(=O)NC(C(=O)NCC#CBr)C(c1ccc(O)cc1)S(=O)(=O)NCCc1ccccc1
@@ -24397,7 +24397,7 @@ N
 x0830_0
 
 >  <ref_mols>  (211) 
-x0305
+x0305_0
 
 >  <original SMILES>  (211) 
 CC(C)C(C)(NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(=O)C1CCN(C(=O)CCl)CC1
@@ -24528,7 +24528,7 @@ N
 x0830_0
 
 >  <ref_mols>  (212) 
-x0305
+x0305_0
 
 >  <original SMILES>  (212) 
 CC(C)N(C)C(=O)C1CCN(C(=O)CCl)C(NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)C1
@@ -24667,7 +24667,7 @@ N
 x0830_0
 
 >  <ref_mols>  (213) 
-x0387
+x0387_0
 
 >  <original SMILES>  (213) 
 O=C(CCl)N1Cc2ccccc2C(c2ccccc2NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)C1
@@ -24798,7 +24798,7 @@ N
 x0830_0
 
 >  <ref_mols>  (214) 
-x0305
+x0305_0
 
 >  <original SMILES>  (214) 
 CN(C(=O)C1CCN(C(=O)CCl)CC1)C(C)(C)NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
@@ -24926,7 +24926,7 @@ N
 x0830_0
 
 >  <ref_mols>  (215) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (215) 
 Cc1ccc(Oc2cc(O)ccc2N(C)c2cc(S(N)(=O)=O)ncn2)c(CN2CCN(C(=O)CCl)CC2)c1
@@ -25041,7 +25041,7 @@ N
 x0830_0
 
 >  <ref_mols>  (216) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (216) 
 Cc1cc(CN2CCN(C(=O)CCl)CC2)cc(NCC(C)c2ccc(S(N)(=O)=O)cc2)c1
@@ -25173,7 +25173,7 @@ N
 x0830_0
 
 >  <ref_mols>  (217) 
-x0305
+x0305_0
 
 >  <original SMILES>  (217) 
 CNCc1cc(-c2cccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)c2F)n(S(=O)(=O)c2cccnc2)c1
@@ -25313,7 +25313,7 @@ N
 x0830_0
 
 >  <ref_mols>  (218) 
-x0387
+x0387_0
 
 >  <original SMILES>  (218) 
 O=C(CCl)N1Cc2cc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)ccc2C(c2ccccc2)C1
@@ -25445,7 +25445,7 @@ N
 x0830_0
 
 >  <ref_mols>  (219) 
-x0305
+x0305_0
 
 >  <original SMILES>  (219) 
 CC(CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)N(C)C(=O)C1CCN(C(=O)CCl)CC1
@@ -25577,7 +25577,7 @@ N
 x0830_0
 
 >  <ref_mols>  (220) 
-x0305
+x0305_0
 
 >  <original SMILES>  (220) 
 CNCc1cc(-c2ccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)cc2F)n(S(=O)(=O)c2cccnc2)c1
@@ -25709,7 +25709,7 @@ N
 x0830_0
 
 >  <ref_mols>  (221) 
-x0305
+x0305_0
 
 >  <original SMILES>  (221) 
 CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cncc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)c2)c1
@@ -25840,7 +25840,7 @@ N
 x0830_0
 
 >  <ref_mols>  (222) 
-x0305
+x0305_0
 
 >  <original SMILES>  (222) 
 CC(C)N(C(=O)C1CCN(C(=O)CCl)CC1)C(C)Cc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
@@ -25999,7 +25999,7 @@ N
 x0830_0
 
 >  <ref_mols>  (223) 
-x1402
+x1402_0
 
 >  <original SMILES>  (223) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CCc6ccc(Cl)s6)c(Cc6ccsc6)cc45)CC3)s2)CC1
@@ -26131,7 +26131,7 @@ N
 x0830_0
 
 >  <ref_mols>  (224) 
-x0305
+x0305_0
 
 >  <original SMILES>  (224) 
 CNCc1cc(-c2cc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)ccc2F)n(S(=O)(=O)c2cccnc2)c1
@@ -26270,7 +26270,7 @@ N
 x0830_0
 
 >  <ref_mols>  (225) 
-x0387
+x0387_0
 
 >  <original SMILES>  (225) 
 O=C(CCl)N1CC(c2ccccc2)c2ccccc2C1NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
@@ -26402,7 +26402,7 @@ N
 x0830_0
 
 >  <ref_mols>  (226) 
-x0305
+x0305_0
 
 >  <original SMILES>  (226) 
 CNCc1cc(-c2ccccc2CC(C)N(C)C(=O)C2CCN(C(=O)CCl)CC2)n(S(=O)(=O)c2cccnc2)c1
@@ -26534,7 +26534,7 @@ N
 x0830_0
 
 >  <ref_mols>  (227) 
-x0305
+x0305_0
 
 >  <original SMILES>  (227) 
 CNC(c1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1)C(C)N(C)C(=O)C1CCN(C(=O)CCl)CC1
@@ -26712,7 +26712,7 @@ N
 x0830_0
 
 >  <ref_mols>  (228) 
-x1402
+x1402_0
 
 >  <original SMILES>  (228) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CN6CCN(S(=O)(=O)C7CCC(Cl)S7)CC6)c(CCc6ccsc6)cc45)CC3)s2)CC1
@@ -26822,7 +26822,7 @@ N
 x0830_0
 
 >  <ref_mols>  (229) 
-x0195,x0305,x0387,x0689,x0736,x1374
+x0195_0,x0305_0,x0387_0,x0689_0,x0736_0,x1374_0
 
 >  <original SMILES>  (229) 
 C#Cc1cncc(Nc2csc(NS(=O)(=O)CCN3CCN(C(=O)CCl)CC3)c2)c1
@@ -26961,7 +26961,7 @@ N
 x0830_0
 
 >  <ref_mols>  (230) 
-x0387
+x0387_0
 
 >  <original SMILES>  (230) 
 O=C(CCl)N1Cc2ccccc2C(c2cccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)c2)C1
@@ -27093,7 +27093,7 @@ N
 x0830_0
 
 >  <ref_mols>  (231) 
-x0305
+x0305_0
 
 >  <original SMILES>  (231) 
 CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cnccc2C(C)N(C)C(=O)C2CCN(C(=O)CCl)CC2)c1
@@ -27225,7 +27225,7 @@ N
 x0830_0
 
 >  <ref_mols>  (232) 
-x0305
+x0305_0
 
 >  <original SMILES>  (232) 
 CC(C)N(C)C(=O)C1CCN(C(=O)CCl)CC1NCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1
@@ -27364,7 +27364,7 @@ N
 x0830_0
 
 >  <ref_mols>  (233) 
-x0387
+x0387_0
 
 >  <original SMILES>  (233) 
 O=C(CCl)N1Cc2ccccc2C(c2cccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)c2)C1
@@ -27481,7 +27481,7 @@ N
 x0830_0
 
 >  <ref_mols>  (234) 
-x0195,x0305,x0387,x0689,x0736,x1374
+x0195_0,x0305_0,x0387_0,x0689_0,x0736_0,x1374_0
 
 >  <original SMILES>  (234) 
 C#Cc1ccc(Nc2csc(CS(=O)(=O)Cc3cccc4c3CN(C(=O)CCl)CC4)c2)nc1
@@ -27595,7 +27595,7 @@ N
 x0830_0
 
 >  <ref_mols>  (235) 
-x0305,x0692,x0755
+x0305_0,x0692_0,x0755_0
 
 >  <original SMILES>  (235) 
 C=CC(=O)NC1CN(S(=O)(=O)c2c(F)cccc2OCCCNc2ccc(C#N)cn2)C1
@@ -27727,7 +27727,7 @@ N
 x0830_0
 
 >  <ref_mols>  (236) 
-x0305
+x0305_0
 
 >  <original SMILES>  (236) 
 CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2ccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)nc2)c1
@@ -27859,7 +27859,7 @@ N
 x0830_0
 
 >  <ref_mols>  (237) 
-x0305
+x0305_0
 
 >  <original SMILES>  (237) 
 CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccc(C(C)N(C)C(=O)C3CCN(C(=O)CCl)CC3)c2)c1
@@ -27991,7 +27991,7 @@ N
 x0830_0
 
 >  <ref_mols>  (238) 
-x0305
+x0305_0
 
 >  <original SMILES>  (238) 
 CC(C)N(C)C(=O)C1(NCc2cc(-c3ccccc3F)n(S(=O)(=O)c3cccnc3)c2)CCN(C(=O)CCl)CC1
@@ -28116,7 +28116,7 @@ N
 x0830_0
 
 >  <ref_mols>  (239) 
-x0072,x0104,x0161,x0195,x0305,x0387,x0692
+x0072_0,x0104_0,x0161_0,x0195_0,x0305_0,x0387_0,x0692_0
 
 >  <original SMILES>  (239) 
 CNC1C(O)OCC(O)C1OC(C(=O)NS(N)(=O)=O)c1ccc(CN2CCN(C(=O)CCl)CC2)cc1C
@@ -28256,7 +28256,7 @@ N
 x0830_0
 
 >  <ref_mols>  (240) 
-x0387
+x0387_0
 
 >  <original SMILES>  (240) 
 O=C(CCl)N1Cc2ccccc2C(c2ccc(NCc3cc(-c4ccccc4F)n(S(=O)(=O)c4cccnc4)c3)cc2)C1
@@ -28427,7 +28427,7 @@ N
 x0830_0
 
 >  <ref_mols>  (241) 
-x1402
+x1402_0
 
 >  <original SMILES>  (241) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CN6CCN(c7ccc(Cl)s7)CC6)c(CCc6ccsc6)cc45)CC3)s2)CC1
@@ -28605,7 +28605,7 @@ N
 x0830_0
 
 >  <ref_mols>  (242) 
-x1402
+x1402_0
 
 >  <original SMILES>  (242) 
 O=C(CCl)N1CCN(S(=O)(=O)c2ccc(CN3CCN(S(=O)(=O)c4cccc5cc(CN6CCN(S(=O)(=O)c7ccc(Cl)s7)CC6)c(CCc6ccsc6)cc45)CC3)s2)CC1
@@ -28718,7 +28718,7 @@ N
 x0830_0
 
 >  <ref_mols>  (243) 
-x0072,x0967
+x0072_0,x0967_0
 
 >  <original SMILES>  (243) 
 CC(=O)NC(Cc1ccc(O)cc1)(C(=O)NCC#CBr)S(=O)(=O)NCCc1ccccc1
@@ -28832,7 +28832,7 @@ N
 x0830_0
 
 >  <ref_mols>  (244) 
-x0161,x0749,x0981
+x0161_0,x0749_0,x0981_0
 
 >  <original SMILES>  (244) 
 CC(N)NC(CC(N)=O)C(=O)NC1CCC(c2nc3c(-c4ccc(S(N)(=O)=O)c(O)c4)cccc3s2)CN1C(=O)CCl
@@ -28915,7 +28915,7 @@ N
 x0830_0
 
 >  <ref_mols>  (245) 
-x0104,x0692
+x0104_0,x0692_0
 
 >  <original SMILES>  (245) 
 C=CC(=O)N1CCN(Cc2cccc3c(CCNS(C)(=O)=O)c[nH]c23)CC1
@@ -29008,7 +29008,7 @@ N
 x0830_0
 
 >  <ref_mols>  (246) 
-x0305,x0692,x0755
+x0305_0,x0692_0,x0755_0
 
 >  <original SMILES>  (246) 
 C=CC(=O)N1CC(NS(=O)(=O)c2c(F)cccc2OCCCNc2ccc(C#N)cn2)C1
@@ -29084,7 +29084,7 @@ N
 x0830_0
 
 >  <ref_mols>  (247) 
-x1382
+x1382_0
 
 >  <original SMILES>  (247) 
 C=CC(=O)NCC(=O)N(Cc1ccccc1)C[C@H](O)c1cccs1
@@ -29180,7 +29180,7 @@ N
 x0830_0
 
 >  <ref_mols>  (248) 
-x0195,x0305,x0387,x0689,x0736,x1374
+x0195_0,x0305_0,x0387_0,x0689_0,x0736_0,x1374_0
 
 >  <original SMILES>  (248) 
 C#Cc1ccc(Nc2csc(CS(=N)(=O)Cc3cccc4c3CN(C(=O)CCl)CC4)c2)nc1
@@ -29269,7 +29269,7 @@ N
 x0830_0
 
 >  <ref_mols>  (249) 
-x0161,x0770
+x0161_0,x0770_0
 
 >  <original SMILES>  (249) 
 C=CS(=O)(=O)N1CCN([C@@H](c2cc(Cl)cc(CCS(N)(=O)=O)c2)c2cccs2)CC1
@@ -29356,7 +29356,7 @@ N
 x0830_0
 
 >  <ref_mols>  (250) 
-x0195,x0770,x1249
+x0195_0,x0770_0,x1249_0
 
 >  <original SMILES>  (250) 
 C=CC(=O)N1CCN(Cc2cc(Cl)ccc2CNS(=O)(=O)N2CCOCC2)CC1
@@ -29443,7 +29443,7 @@ N
 x0830_0
 
 >  <ref_mols>  (251) 
-x0770,x1249
+x0770_0,x1249_0
 
 >  <original SMILES>  (251) 
 O=C(CCl)N1CCN(Cc2cc(Cl)ccc2CNS(=O)(=O)N2CCOCC2)CC1
