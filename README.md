@@ -38,6 +38,9 @@ The following notebooks may be of interest:
 - [2_InititalDataAnalysis.ipynb](2_InititalDataAnalysis.ipynb) - basic analysis of the results.
 - [3_AugmentationAndFiltering.ipynb](3_AugmentationAndFiltering.ipynb) - augmentation and filtering of the results.
 
+See also:
+- [FeatureStein](featurestein/) - scoring overlap of poses with original fragment screening hits using RDKit feature maps.  
+
 
 ## Datasets
 
