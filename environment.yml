@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
+  - pip=20.0.2
   - numpy
   - pandas=1.0.3
   - jupyter
@@ -12,8 +13,10 @@ dependencies:
   - scipy=1.4.1
   - psutil
   - requests
-  - rdkit=2020.03.1
-  - openbabel=3.0.0
+  - rdkit=2020.09.1
+  - openbabel=3.1.1
   - nglview
   - odfpy
   - xlrd
+  - pip:
+    - git+https://github.com/oddt/oddt.git@master
